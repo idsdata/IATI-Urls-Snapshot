@@ -359,8 +359,6 @@ http://foreignassistance.gov/IATI/Activities/Uganda/Uganda.xml
 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2009XML/Uganda_2009CRS.xml
 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2010XML/Country-Unspecified.XML
 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2009XML/Developing_Country_Unspecified_2009_CRS.xml
-http://foreignassistance.gov/IATI/CRS/IATI Feeder_2010XML/Regional.xml
-http://foreignassistance.gov/IATI/CRS/IATI Feeder_2009XML/Regional_Programs_2009_CRS.xml
 http://foreignassistance.gov/IATI/Organisation/DOS%20and%20USAID/DOS%20and%20USAID.xml
 http://foreignassistance.gov/IATI/Activities/USAID Administrative Costs/USAID Administrative Costs.xml
 http://foreignassistance.gov/IATI/Activities/USAID Africa Regional/USAID Africa Regional.xml
@@ -389,6 +387,8 @@ http://foreignassistance.gov/IATI/Activities/USAID Regional Development Mission-
 http://foreignassistance.gov/IATI/Activities/USAID South America Regional/USAID South America Regional.xml
 http://foreignassistance.gov/IATI/Activities/USAID Southern Africa Regional/USAID Southern Africa Regional.xml
 http://foreignassistance.gov/IATI/Activities/USAID West Africa Regional/USAID West Africa Regional.xml
+http://foreignassistance.gov/IATI/CRS/IATI Feeder_2010XML/Regional.xml
+http://foreignassistance.gov/IATI/CRS/IATI Feeder_2009XML/Regional_Programs_2009_CRS.xml
 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2009XML/Uruguay_2009CRS.xml
 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2010XML/Uruguay_2010CRS.xml
 http://foreignassistance.gov/IATI/Activities/Uzbekistan/Uzbekistan.xml
