@@ -1,10 +1,10 @@
-http://www.aidstream.org/files/xml/restless-gb.xml
-http://www.aidstream.org/files/xml/restless-in.xml
-http://www.aidstream.org/files/xml/restless-np.xml
-http://www.aidstream.org/files/xml/restless-org.xml
-http://www.aidstream.org/files/xml/restless-sl.xml
-http://www.aidstream.org/files/xml/restless-tz.xml
-http://www.aidstream.org/files/xml/restless-ug.xml
-http://www.aidstream.org/files/xml/restless-za.xml
-http://www.aidstream.org/files/xml/restless-zm.xml
-http://www.aidstream.org/files/xml/restless-zw.xml
+restless-gb http://www.aidstream.org/files/xml/restless-gb.xml
+restless-in http://www.aidstream.org/files/xml/restless-in.xml
+restless-np http://www.aidstream.org/files/xml/restless-np.xml
+restless-org http://www.aidstream.org/files/xml/restless-org.xml
+restless-sl http://www.aidstream.org/files/xml/restless-sl.xml
+restless-tz http://www.aidstream.org/files/xml/restless-tz.xml
+restless-ug http://www.aidstream.org/files/xml/restless-ug.xml
+restless-za http://www.aidstream.org/files/xml/restless-za.xml
+restless-zm http://www.aidstream.org/files/xml/restless-zm.xml
+restless-zw http://www.aidstream.org/files/xml/restless-zw.xml

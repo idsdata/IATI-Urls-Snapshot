@@ -1,28 +1,28 @@
-http://www.iadb.org/iati/iadb-ARGENTINA.xml
-http://www.iadb.org/iati/iadb-BARBADOS.xml
-http://www.iadb.org/iati/iadb-BOLIVIA.xml
-http://www.iadb.org/iati/iadb-BRAZIL.xml
-http://www.iadb.org/iati/iadb-BAHAMAS.xml
-http://www.iadb.org/iati/iadb-BELIZE.xml
-http://www.iadb.org/iati/iadb-CHILE.xml
-http://www.iadb.org/iati/iadb-COLOMBIA.xml
-http://www.iadb.org/iati/iadb-COSTA-RICA.xml
-http://www.iadb.org/iati/iadb-DOMINICAN-REPUBLIC.xml
-http://www.iadb.org/iati/iadb-ECUADOR.xml
-http://www.iadb.org/iati/iadb-GUATEMALA.xml
-http://www.iadb.org/iati/iadb-GUYANA.xml
-http://www.iadb.org/iati/iadb-HONDURAS.xml
-http://www.iadb.org/iati/iadb-HAITI.xml
-http://www.iadb.org/iati/iadb-JAMAICA.xml
-http://www.iadb.org/iati/iadb-MEXICO.xml
-http://www.iadb.org/iati/iadb-NICARAGUA.xml
-http://www.iadb.org/iati/IATI_Organizations_Standard.xml
-http://www.iadb.org/iati/iadb-PANAMA.xml
-http://www.iadb.org/iati/iadb-PERU.xml
-http://www.iadb.org/iati/iadb-PARAGUAY.xml
-http://www.iadb.org/iati/iadb-REGIONAL.xml
-http://www.iadb.org/iati/iadb-SURINAME.xml
-http://www.iadb.org/iati/iadb-EL-SALVADOR.xml
-http://www.iadb.org/iati/iadb-TRINIDAD-AND-TOBAGO.xml
-http://www.iadb.org/iati/iadb-URUGUAY.xml
-http://www.iadb.org/iati/iadb-VENEZUELA.xml
+iadb-ar http://www.iadb.org/iati/iadb-ARGENTINA.xml
+iadb-bb http://www.iadb.org/iati/iadb-BARBADOS.xml
+iadb-bo http://www.iadb.org/iati/iadb-BOLIVIA.xml
+iadb-br http://www.iadb.org/iati/iadb-BRAZIL.xml
+iadb-bs http://www.iadb.org/iati/iadb-BAHAMAS.xml
+iadb-bz http://www.iadb.org/iati/iadb-BELIZE.xml
+iadb-cl http://www.iadb.org/iati/iadb-CHILE.xml
+iadb-co http://www.iadb.org/iati/iadb-COLOMBIA.xml
+iadb-cr http://www.iadb.org/iati/iadb-COSTA-RICA.xml
+iadb-do http://www.iadb.org/iati/iadb-DOMINICAN-REPUBLIC.xml
+iadb-ec http://www.iadb.org/iati/iadb-ECUADOR.xml
+iadb-gt http://www.iadb.org/iati/iadb-GUATEMALA.xml
+iadb-gy http://www.iadb.org/iati/iadb-GUYANA.xml
+iadb-ho http://www.iadb.org/iati/iadb-HONDURAS.xml
+iadb-ht http://www.iadb.org/iati/iadb-HAITI.xml
+iadb-jm http://www.iadb.org/iati/iadb-JAMAICA.xml
+iadb-mx http://www.iadb.org/iati/iadb-MEXICO.xml
+iadb-ni http://www.iadb.org/iati/iadb-NICARAGUA.xml
+iadb-org http://www.iadb.org/iati/IATI_Organizations_Standard.xml
+iadb-pa http://www.iadb.org/iati/iadb-PANAMA.xml
+iadb-pe http://www.iadb.org/iati/iadb-PERU.xml
+iadb-py http://www.iadb.org/iati/iadb-PARAGUAY.xml
+iadb-rg http://www.iadb.org/iati/iadb-REGIONAL.xml
+iadb-sr http://www.iadb.org/iati/iadb-SURINAME.xml
+iadb-sv http://www.iadb.org/iati/iadb-EL-SALVADOR.xml
+iadb-tt http://www.iadb.org/iati/iadb-TRINIDAD-AND-TOBAGO.xml
+iadb-uy http://www.iadb.org/iati/iadb-URUGUAY.xml
+iadb-ve http://www.iadb.org/iati/iadb-VENEZUELA.xml

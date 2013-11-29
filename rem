@@ -1,5 +1,5 @@
-http://aidstream.org/files/xml/rem-cd.xml
-http://aidstream.org/public/files/xml/rem-cg.xml
-http://aidstream.org/files/xml/rem-congo.xml
-http://aidstream.org/files/xml/rem-lk.xml
-http://aidstream.org/files/xml/rem-lr.xml
+rem-cd http://aidstream.org/files/xml/rem-cd.xml
+rem-cg http://aidstream.org/public/files/xml/rem-cg.xml
+rem-congo http://aidstream.org/files/xml/rem-congo.xml
+rem-lk http://aidstream.org/files/xml/rem-lk.xml
+rem-lr http://aidstream.org/files/xml/rem-lr.xml

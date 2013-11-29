@@ -1,42 +1,42 @@
-http://www.adb.org/iati/adb-consolidatedactivities.xml
-http://www.adb.org/iati/iati-activities-af.xml
-http://www.adb.org/iati/iati-activities-am.xml
-http://www.adb.org/iati/iati-activities-az.xml
-http://www.adb.org/iati/iati-activities-bd.xml
-http://www.adb.org/iati/iati-activities-bt.xml
-http://www.adb.org/iati/iati-activities-ck.xml
-http://www.adb.org/iati/iati-activities-cn.xml
-http://www.adb.org/iati/iati-activities-fj.xml
-http://www.adb.org/iati/iati-activities-fm.xml
-http://www.adb.org/iati/iati-activities-ge.xml
-http://www.adb.org/iati/iati-activities-id.xml
-http://www.adb.org/iati/iati-activities-in.xml
-http://www.adb.org/iati/iati-activities-kg.xml
-http://www.adb.org/iati/iati-activities-kh.xml
-http://www.adb.org/iati/iati-activities-ki.xml
-http://www.adb.org/iati/iati-activities-kz.xml
-http://www.adb.org/iati/iati-activities-la.xml
-http://www.adb.org/iati/iati-activities-lk.xml
-http://www.adb.org/iati/iati-activities-mh.xml
-http://www.adb.org/iati/iati-activities-mm.xml
-http://www.adb.org/iati/iati-activities-mn.xml
-http://www.adb.org/iati/iati-activities-mv.xml
-http://www.adb.org/iati/iati-activities-np.xml
-http://www.adb.org/iati/iati-activities-nr.xml
-http://www.adb.org/iati/adb-org.xml
-http://www.adb.org/iati/iati-activities-pg.xml
-http://www.adb.org/iati/iati-activities-ph.xml
-http://www.adb.org/iati/iati-activities-pk.xml
-http://www.adb.org/iati/iati-activities-pw.xml
-http://www.adb.org/iati/iati-activities-reg.xml
-http://www.adb.org/iati/iati-activities-sb.xml
-http://www.adb.org/iati/iati-activities-th.xml
-http://www.adb.org/iati/iati-activities-tj.xml
-http://www.adb.org/iati/iati-activities-tl.xml
-http://www.adb.org/iati/iati-activities-tm.xml
-http://www.adb.org/iati/iati-activities-to.xml
-http://www.adb.org/iati/iati-activities-tv.xml
-http://www.adb.org/iati/iati-activities-uz.xml
-http://www.adb.org/iati/iati-activities-vn.xml
-http://www.adb.org/iati/iati-activities-vu.xml
-http://www.adb.org/iati/iati-activities-ws.xml
+asdb-activities http://www.adb.org/iati/adb-consolidatedactivities.xml
+asdb-af http://www.adb.org/iati/iati-activities-af.xml
+asdb-am http://www.adb.org/iati/iati-activities-am.xml
+asdb-az http://www.adb.org/iati/iati-activities-az.xml
+asdb-bd http://www.adb.org/iati/iati-activities-bd.xml
+asdb-bt http://www.adb.org/iati/iati-activities-bt.xml
+asdb-ck http://www.adb.org/iati/iati-activities-ck.xml
+asdb-cn http://www.adb.org/iati/iati-activities-cn.xml
+asdb-fj http://www.adb.org/iati/iati-activities-fj.xml
+asdb-fm http://www.adb.org/iati/iati-activities-fm.xml
+asdb-ge http://www.adb.org/iati/iati-activities-ge.xml
+asdb-id http://www.adb.org/iati/iati-activities-id.xml
+asdb-in http://www.adb.org/iati/iati-activities-in.xml
+asdb-kg http://www.adb.org/iati/iati-activities-kg.xml
+asdb-kh http://www.adb.org/iati/iati-activities-kh.xml
+asdb-ki http://www.adb.org/iati/iati-activities-ki.xml
+asdb-kz http://www.adb.org/iati/iati-activities-kz.xml
+asdb-la http://www.adb.org/iati/iati-activities-la.xml
+asdb-lk http://www.adb.org/iati/iati-activities-lk.xml
+asdb-mh http://www.adb.org/iati/iati-activities-mh.xml
+asdb-mm http://www.adb.org/iati/iati-activities-mm.xml
+asdb-mn http://www.adb.org/iati/iati-activities-mn.xml
+asdb-mv http://www.adb.org/iati/iati-activities-mv.xml
+asdb-np http://www.adb.org/iati/iati-activities-np.xml
+asdb-nr http://www.adb.org/iati/iati-activities-nr.xml
+asdb-org http://www.adb.org/iati/adb-org.xml
+asdb-pg http://www.adb.org/iati/iati-activities-pg.xml
+asdb-ph http://www.adb.org/iati/iati-activities-ph.xml
+asdb-pk http://www.adb.org/iati/iati-activities-pk.xml
+asdb-pw http://www.adb.org/iati/iati-activities-pw.xml
+asdb-reg http://www.adb.org/iati/iati-activities-reg.xml
+asdb-sb http://www.adb.org/iati/iati-activities-sb.xml
+asdb-th http://www.adb.org/iati/iati-activities-th.xml
+asdb-tj http://www.adb.org/iati/iati-activities-tj.xml
+asdb-tl http://www.adb.org/iati/iati-activities-tl.xml
+asdb-tm http://www.adb.org/iati/iati-activities-tm.xml
+asdb-to http://www.adb.org/iati/iati-activities-to.xml
+asdb-tv http://www.adb.org/iati/iati-activities-tv.xml
+asdb-uz http://www.adb.org/iati/iati-activities-uz.xml
+asdb-vn http://www.adb.org/iati/iati-activities-vn.xml
+asdb-vu http://www.adb.org/iati/iati-activities-vu.xml
+asdb-ws http://www.adb.org/iati/iati-activities-ws.xml

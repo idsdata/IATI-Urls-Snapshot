@@ -1,63 +1,63 @@
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Afghanistan.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Africa_General.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Asia_General.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Bangladesh.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Benin.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Bolivia.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Brazil.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Burma.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Burundi.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Cambodia.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Central_African_Republic.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Central_America.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Chad.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Chile.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Colombia.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Democratic_Republic_of_Congo.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_East_Timor.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Egypt.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_El_Salvador.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Eritrea.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Ethiopia.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_General_East_Africa.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_General_Southern_Africa.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_General_West_Africa.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Guatemala.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Guyana.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Haiti.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Honduras.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Indonesia.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Israel.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Jordan.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Kenya.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Kyrgyzstan.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Latin_America_General.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Lebanon.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Liberia.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Malawi.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Mali.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Mauritania.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Mexico.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Middle_East_General.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Mozambique.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Nicaragua.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Niger.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Nigeria.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Pakistan.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Palestine_OPT.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Paraguay.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Peru.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Philippines.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Rwanda.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Sierra_Leone.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_South_Africa.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_South_Sudan.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Sri_Lanka.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Sudan.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Swaziland.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Tanzania.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Thailand.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Uganda.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_West_Bank_Jordan.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Zambia.xml
-http://www.cafod.org.uk/extra/data/iati/IATIFile_Zimbabwe.xml
+cafod-afghanistan http://www.cafod.org.uk/extra/data/iati/IATIFile_Afghanistan.xml
+cafod-africageneral http://www.cafod.org.uk/extra/data/iati/IATIFile_Africa_General.xml
+cafod-asiageneral http://www.cafod.org.uk/extra/data/iati/IATIFile_Asia_General.xml
+cafod-bangladesh http://www.cafod.org.uk/extra/data/iati/IATIFile_Bangladesh.xml
+cafod-benin http://www.cafod.org.uk/extra/data/iati/IATIFile_Benin.xml
+cafod-bolivia http://www.cafod.org.uk/extra/data/iati/IATIFile_Bolivia.xml
+cafod-brazil http://www.cafod.org.uk/extra/data/iati/IATIFile_Brazil.xml
+cafod-burma http://www.cafod.org.uk/extra/data/iati/IATIFile_Burma.xml
+cafod-burundi http://www.cafod.org.uk/extra/data/iati/IATIFile_Burundi.xml
+cafod-cambodia http://www.cafod.org.uk/extra/data/iati/IATIFile_Cambodia.xml
+cafod-centralafricanrepublic http://www.cafod.org.uk/extra/data/iati/IATIFile_Central_African_Republic.xml
+cafod-centralamerica http://www.cafod.org.uk/extra/data/iati/IATIFile_Central_America.xml
+cafod-chad http://www.cafod.org.uk/extra/data/iati/IATIFile_Chad.xml
+cafod-chile http://www.cafod.org.uk/extra/data/iati/IATIFile_Chile.xml
+cafod-colombia http://www.cafod.org.uk/extra/data/iati/IATIFile_Colombia.xml
+cafod-democraticrepublicofcongo http://www.cafod.org.uk/extra/data/iati/IATIFile_Democratic_Republic_of_Congo.xml
+cafod-easttimor http://www.cafod.org.uk/extra/data/iati/IATIFile_East_Timor.xml
+cafod-egypt http://www.cafod.org.uk/extra/data/iati/IATIFile_Egypt.xml
+cafod-elsalvador http://www.cafod.org.uk/extra/data/iati/IATIFile_El_Salvador.xml
+cafod-eritrea http://www.cafod.org.uk/extra/data/iati/IATIFile_Eritrea.xml
+cafod-ethiopia http://www.cafod.org.uk/extra/data/iati/IATIFile_Ethiopia.xml
+cafod-generaleastafrica http://www.cafod.org.uk/extra/data/iati/IATIFile_General_East_Africa.xml
+cafod-generalsouthernafrica http://www.cafod.org.uk/extra/data/iati/IATIFile_General_Southern_Africa.xml
+cafod-generalwestafrica http://www.cafod.org.uk/extra/data/iati/IATIFile_General_West_Africa.xml
+cafod-guatemala http://www.cafod.org.uk/extra/data/iati/IATIFile_Guatemala.xml
+cafod-guyana http://www.cafod.org.uk/extra/data/iati/IATIFile_Guyana.xml
+cafod-haiti http://www.cafod.org.uk/extra/data/iati/IATIFile_Haiti.xml
+cafod-honduras http://www.cafod.org.uk/extra/data/iati/IATIFile_Honduras.xml
+cafod-indonesia http://www.cafod.org.uk/extra/data/iati/IATIFile_Indonesia.xml
+cafod-israel http://www.cafod.org.uk/extra/data/iati/IATIFile_Israel.xml
+cafod-jordan http://www.cafod.org.uk/extra/data/iati/IATIFile_Jordan.xml
+cafod-kenya http://www.cafod.org.uk/extra/data/iati/IATIFile_Kenya.xml
+cafod-kyrgyzstan http://www.cafod.org.uk/extra/data/iati/IATIFile_Kyrgyzstan.xml
+cafod-latinamericageneral http://www.cafod.org.uk/extra/data/iati/IATIFile_Latin_America_General.xml
+cafod-lebanon http://www.cafod.org.uk/extra/data/iati/IATIFile_Lebanon.xml
+cafod-liberia http://www.cafod.org.uk/extra/data/iati/IATIFile_Liberia.xml
+cafod-malawi http://www.cafod.org.uk/extra/data/iati/IATIFile_Malawi.xml
+cafod-mali http://www.cafod.org.uk/extra/data/iati/IATIFile_Mali.xml
+cafod-mauritania http://www.cafod.org.uk/extra/data/iati/IATIFile_Mauritania.xml
+cafod-mexico http://www.cafod.org.uk/extra/data/iati/IATIFile_Mexico.xml
+cafod-middleeastgeneral http://www.cafod.org.uk/extra/data/iati/IATIFile_Middle_East_General.xml
+cafod-mozambique http://www.cafod.org.uk/extra/data/iati/IATIFile_Mozambique.xml
+cafod-nicaragua http://www.cafod.org.uk/extra/data/iati/IATIFile_Nicaragua.xml
+cafod-niger http://www.cafod.org.uk/extra/data/iati/IATIFile_Niger.xml
+cafod-nigeria http://www.cafod.org.uk/extra/data/iati/IATIFile_Nigeria.xml
+cafod-pakistan http://www.cafod.org.uk/extra/data/iati/IATIFile_Pakistan.xml
+cafod-palestineopt http://www.cafod.org.uk/extra/data/iati/IATIFile_Palestine_OPT.xml
+cafod-paraguay http://www.cafod.org.uk/extra/data/iati/IATIFile_Paraguay.xml
+cafod-peru http://www.cafod.org.uk/extra/data/iati/IATIFile_Peru.xml
+cafod-philippines http://www.cafod.org.uk/extra/data/iati/IATIFile_Philippines.xml
+cafod-rwanda http://www.cafod.org.uk/extra/data/iati/IATIFile_Rwanda.xml
+cafod-sierraleone http://www.cafod.org.uk/extra/data/iati/IATIFile_Sierra_Leone.xml
+cafod-southafrica http://www.cafod.org.uk/extra/data/iati/IATIFile_South_Africa.xml
+cafod-southsudan http://www.cafod.org.uk/extra/data/iati/IATIFile_South_Sudan.xml
+cafod-srilanka http://www.cafod.org.uk/extra/data/iati/IATIFile_Sri_Lanka.xml
+cafod-sudan http://www.cafod.org.uk/extra/data/iati/IATIFile_Sudan.xml
+cafod-swaziland http://www.cafod.org.uk/extra/data/iati/IATIFile_Swaziland.xml
+cafod-tanzania http://www.cafod.org.uk/extra/data/iati/IATIFile_Tanzania.xml
+cafod-thailand http://www.cafod.org.uk/extra/data/iati/IATIFile_Thailand.xml
+cafod-uganda http://www.cafod.org.uk/extra/data/iati/IATIFile_Uganda.xml
+cafod-westbankjordan http://www.cafod.org.uk/extra/data/iati/IATIFile_West_Bank_Jordan.xml
+cafod-zambia http://www.cafod.org.uk/extra/data/iati/IATIFile_Zambia.xml
+cafod-zimbabwe http://www.cafod.org.uk/extra/data/iati/IATIFile_Zimbabwe.xml

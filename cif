@@ -1,33 +1,33 @@
-http://siteresources.worldbank.org/IATI/CIF/CIF-889.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-BD.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-BO.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-CD.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-CL.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-CO.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-EG.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-GD.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-GH.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-HN.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-ID.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-IN.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-KE.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-KH.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-KZ.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-LA.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-MA.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-MX.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-MZ.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-NE.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-NP.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-PH.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-TH.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-TJ.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-TO.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-TR.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-UA.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-VC.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-VN.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-WS.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-YE.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-ZA.xml
-http://siteresources.worldbank.org/IATI/CIF/CIF-ZM.xml
+cif-889 http://siteresources.worldbank.org/IATI/CIF/CIF-889.xml
+cif-bd http://siteresources.worldbank.org/IATI/CIF/CIF-BD.xml
+cif-bo http://siteresources.worldbank.org/IATI/CIF/CIF-BO.xml
+cif-cd http://siteresources.worldbank.org/IATI/CIF/CIF-CD.xml
+cif-cl http://siteresources.worldbank.org/IATI/CIF/CIF-CL.xml
+cif-co http://siteresources.worldbank.org/IATI/CIF/CIF-CO.xml
+cif-eg http://siteresources.worldbank.org/IATI/CIF/CIF-EG.xml
+cif-gd http://siteresources.worldbank.org/IATI/CIF/CIF-GD.xml
+cif-gh http://siteresources.worldbank.org/IATI/CIF/CIF-GH.xml
+cif-hn http://siteresources.worldbank.org/IATI/CIF/CIF-HN.xml
+cif-id http://siteresources.worldbank.org/IATI/CIF/CIF-ID.xml
+cif-in http://siteresources.worldbank.org/IATI/CIF/CIF-IN.xml
+cif-ke http://siteresources.worldbank.org/IATI/CIF/CIF-KE.xml
+cif-kh http://siteresources.worldbank.org/IATI/CIF/CIF-KH.xml
+cif-kz http://siteresources.worldbank.org/IATI/CIF/CIF-KZ.xml
+cif-la http://siteresources.worldbank.org/IATI/CIF/CIF-LA.xml
+cif-ma http://siteresources.worldbank.org/IATI/CIF/CIF-MA.xml
+cif-mx http://siteresources.worldbank.org/IATI/CIF/CIF-MX.xml
+cif-mz http://siteresources.worldbank.org/IATI/CIF/CIF-MZ.xml
+cif-ne http://siteresources.worldbank.org/IATI/CIF/CIF-NE.xml
+cif-np http://siteresources.worldbank.org/IATI/CIF/CIF-NP.xml
+cif-ph http://siteresources.worldbank.org/IATI/CIF/CIF-PH.xml
+cif-th http://siteresources.worldbank.org/IATI/CIF/CIF-TH.xml
+cif-tj http://siteresources.worldbank.org/IATI/CIF/CIF-TJ.xml
+cif-to http://siteresources.worldbank.org/IATI/CIF/CIF-TO.xml
+cif-tr http://siteresources.worldbank.org/IATI/CIF/CIF-TR.xml
+cif-ua http://siteresources.worldbank.org/IATI/CIF/CIF-UA.xml
+cif-vc http://siteresources.worldbank.org/IATI/CIF/CIF-VC.xml
+cif-vn http://siteresources.worldbank.org/IATI/CIF/CIF-VN.xml
+cif-ws http://siteresources.worldbank.org/IATI/CIF/CIF-WS.xml
+cif-ye http://siteresources.worldbank.org/IATI/CIF/CIF-YE.xml
+cif-za http://siteresources.worldbank.org/IATI/CIF/CIF-ZA.xml
+cif-zm http://siteresources.worldbank.org/IATI/CIF/CIF-ZM.xml
