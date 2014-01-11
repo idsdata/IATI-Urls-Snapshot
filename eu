@@ -48,6 +48,7 @@ eu-ec http://ec.europa.eu/europeaid/files/iati/EU_EC.xml
 eu-eg http://ec.europa.eu/europeaid/files/iati/EU_EG.xml
 eu-et http://ec.europa.eu/europeaid/files/iati/EU_ET.xml
 eu-fj http://ec.europa.eu/europeaid/files/iati/EU_FJ.xml
+eu-fm http://ec.europa.eu/europeaid/files/iati/EU_FM.xml
 eu-ga http://ec.europa.eu/europeaid/files/iati/EU_GA.xml
 eu-gd http://ec.europa.eu/europeaid/files/iati/EU_GD.xml
 eu-ge http://ec.europa.eu/europeaid/files/iati/EU_GE.xml
@@ -97,6 +98,7 @@ eu-ng http://ec.europa.eu/europeaid/files/iati/EU_NG.xml
 eu-ni http://ec.europa.eu/europeaid/files/iati/EU_NI.xml
 eu-np http://ec.europa.eu/europeaid/files/iati/EU_NP.xml
 eu-org http://ec.europa.eu/europeaid/files/iati/IATI_Organisation_DEVCO.xml
+eu-pa http://ec.europa.eu/europeaid/files/iati/EU_PA.xml
 eu-pe http://ec.europa.eu/europeaid/files/iati/EU_PE.xml
 eu-pg http://ec.europa.eu/europeaid/files/iati/EU_PG.xml
 eu-ph http://ec.europa.eu/europeaid/files/iati/EU_PH.xml
