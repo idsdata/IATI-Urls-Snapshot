@@ -3,11 +3,14 @@ ocha_fts-afghanistan_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16271.x
 ocha_fts-afghanistan_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16422.xml
 ocha_fts-burkina_faso_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16188.xml
 ocha_fts-burkina_faso_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16265.xml
+ocha_fts-burkina_faso_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16423.xml
+ocha_fts-cameroon_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16443.xml
 ocha_fts-car_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16100.xml
 ocha_fts-car_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16268.xml
 ocha_fts-car_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16437.xml
 ocha_fts-chad_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16099.xml
 ocha_fts-chad_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16266.xml
+ocha_fts-chad_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16424.xml
 ocha_fts-cotedivoire_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16108.xml
 ocha_fts-cuba_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16253.xml
 ocha_fts-djibouti_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16114.xml
@@ -15,6 +18,7 @@ ocha_fts-djibouti_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16274.xml
 ocha_fts-drc_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16109.xml
 ocha_fts-drc_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16280.xml
 ocha_fts-drc_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16425.xml
+ocha_fts-gambia_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16456.xml
 ocha_fts-haiti_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16113.xml
 ocha_fts-haiti_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16299.xml
 ocha_fts-haiti_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16427.xml
@@ -24,11 +28,15 @@ ocha_fts-lesotho_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16203.xml
 ocha_fts-liberia_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16112.xml
 ocha_fts-mali_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16164.xml
 ocha_fts-mali_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16276.xml
+ocha_fts-mali_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16429.xml
 ocha_fts-mauritania_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16168.xml
 ocha_fts-mauritania_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16264.xml
+ocha_fts-mauritania_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16430.xml
 ocha_fts-myanmar_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16157.xml
 ocha_fts-niger_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16107.xml
 ocha_fts-niger_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16278.xml
+ocha_fts-niger_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16431.xml
+ocha_fts-nigeria_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16450.xml
 ocha_fts-opt_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16102.xml
 ocha_fts-opt_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16262.xml
 ocha_fts-opt_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16432.xml
@@ -37,6 +45,7 @@ ocha_fts-philippines_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16110.x
 ocha_fts-philippines_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16277.xml
 ocha_fts-philippines_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16433.xml
 ocha_fts-philippines_haiyan_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16439.xml
+ocha_fts-senegal_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16457.xml
 ocha_fts-somalia_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16103.xml
 ocha_fts-somalia_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16269.xml
 ocha_fts-somalia_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16434.xml
