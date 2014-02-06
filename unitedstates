@@ -52,7 +52,7 @@ unitedstates-by_crs2009 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2009XM
 unitedstates-by_crs2010 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2010XML/Belarus_2010CRS.xml
 unitedstates-bz_crs2009 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2009XML/Belize_2009CRS.xml
 unitedstates-bz_crs2010 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2010XML/Belize_2010CRS.xml
-unitedstates-cd http://foreignassistance.gov/IATI/Activities/Congo, Democratic Republic of/Congo, Democratic Republic of.xml
+unitedstates-cd http://foreignassistance.gov/web/IATI/Activities/Congo,%20Democratic%20Republic%20of/Congo,%20Democratic%20Republic%20of.xml
 unitedstates-cd_crs2009 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2009XML/CongoDemRep_2009CRS.xml
 unitedstates-cd_crs2010 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2010XML/CongoDemRepublic_2010CRS.xml
 unitedstates-cf http://foreignassistance.gov/IATI/Activities/Central African Republic/Central African Republic.xml
@@ -61,7 +61,7 @@ unitedstates-cf_crs2010 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2010XM
 unitedstates-cg http://foreignassistance.gov/IATI/Activities/Congo, Republic of/Congo, Republic of.xml
 unitedstates-cg_crs2009 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2009XML/CongoRep_2009CRS.xml
 unitedstates-cg_crs2010 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2010XML/Congo_2010CRS.xml
-unitedstates-ci http://foreignassistance.gov/IATI/Activities/Cote d'Ivoire/Cote d'Ivoire.xml
+unitedstates-ci http://foreignassistance.gov/web/IATI/Activities/Cote d'Ivoire/Cote d'Ivoire.xml
 unitedstates-ci_crs2009 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2009XML/Coted'Ivoire_2009CRS.xml
 unitedstates-ci_crs2010 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2010XML/Cote d'Ivoire_2010CRS.xml
 unitedstates-ck_crs2010 http://foreignassistance.gov/IATI/CRS/IATI Feeder_2010XML/Cook Islands_2010CRS.xml
