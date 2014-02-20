@@ -1,5 +1,4 @@
 cif-679 http://siteresources.worldbank.org/IATI/CIF/CIF-679.xml
-cif-889 http://siteresources.worldbank.org/IATI/CIF/CIF-889.xml
 cif-bd http://siteresources.worldbank.org/IATI/CIF/CIF-BD.xml
 cif-bf http://siteresources.worldbank.org/IATI/CIF/CIF-BF.xml
 cif-bo http://siteresources.worldbank.org/IATI/CIF/CIF-BO.xml
