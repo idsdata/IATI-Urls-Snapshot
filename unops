@@ -1,3 +1,5 @@
+unops-998 http://www.unops.org/iati/iati-activities/iati_activity_multi.xml
+unops-ae http://www.unops.org/iati/iati-activities/iati_activity_AE.xml
 unops-af http://www.unops.org/iati/iati-activities/iati_activity_AF.xml
 unops-al http://www.unops.org/iati/iati-activities/iati_activity_AL.xml
 unops-am http://www.unops.org/iati/iati-activities/iati_activity_AM.xml
@@ -25,6 +27,7 @@ unops-co http://www.unops.org/iati/iati-activities/iati_activity_CO.xml
 unops-cr http://www.unops.org/iati/iati-activities/iati_activity_CR.xml
 unops-cu http://www.unops.org/iati/iati-activities/iati_activity_CU.xml
 unops-cv http://www.unops.org/iati/iati-activities/iati_activity_CV.xml
+unops-cy 
 unops-dj http://www.unops.org/iati/iati-activities/iati_activity_DJ.xml
 unops-dm http://www.unops.org/iati/iati-activities/iati_activity_DM.xml
 unops-do http://www.unops.org/iati/iati-activities/iati_activity_DO.xml
@@ -36,6 +39,7 @@ unops-et http://www.unops.org/iati/iati-activities/iati_activity_ET.xml
 unops-fj http://www.unops.org/iati/iati-activities/iati_activity_FJ.xml
 unops-fm http://www.unops.org/iati/iati-activities/iati_activity_FM.xml
 unops-ga http://www.unops.org/iati/iati-activities/iati_activity_GA.xml
+unops-ge 
 unops-gh http://www.unops.org/iati/iati-activities/iati_activity_GH.xml
 unops-gm http://www.unops.org/iati/iati-activities/iati_activity_GM.xml
 unops-gn http://www.unops.org/iati/iati-activities/iati_activity_GN.xml
@@ -68,8 +72,10 @@ unops-lc http://www.unops.org/iati/iati-activities/iati_activity_LC.xml
 unops-lk http://www.unops.org/iati/iati-activities/iati_activity_LK.xml
 unops-lr http://www.unops.org/iati/iati-activities/iati_activity_LR.xml
 unops-ls http://www.unops.org/iati/iati-activities/iati_activity_LS.xml
+unops-lt http://www.unops.org/iati/iati-activities/iati_activity_LT.xml
 unops-ly http://www.unops.org/iati/iati-activities/iati_activity_LY.xml
 unops-ma http://www.unops.org/iati/iati-activities/iati_activity_MA.xml
+unops-md 
 unops-me http://www.unops.org/iati/iati-activities/iati_activity_ME.xml
 unops-mg http://www.unops.org/iati/iati-activities/iati_activity_MG.xml
 unops-mk http://www.unops.org/iati/iati-activities/iati_activity_MK.xml
