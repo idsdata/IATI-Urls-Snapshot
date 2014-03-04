@@ -5,6 +5,7 @@ dfid-380 http://iati.dfid.gov.uk/iati_files/Region/DFID-West-Indies-regional-380
 dfid-589 http://iati.dfid.gov.uk/iati_files/Region/DFID-Middle-East-regional-589.xml
 dfid-798 http://iati.dfid.gov.uk/iati_files/Region/DFID-Asia-regional-798.xml
 dfid-89 http://iati.dfid.gov.uk/iati_files/Region/DFID-Europe-regional-89.xml
+dfid-ab http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Asia-regional-Poverty-Fund-AB.xml
 dfid-ac http://iati.dfid.gov.uk/iati_files/Country/DFID-Ascension-Island-AC.xml
 dfid-admincapital http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-AdministrativeCapital-AC.xml
 dfid-af http://iati.dfid.gov.uk/iati_files/Country/DFID-Afghanistan-AF.xml
@@ -18,7 +19,6 @@ dfid-bi http://iati.dfid.gov.uk/iati_files/Country/DFID-Burundi-BI.xml
 dfid-bj http://iati.dfid.gov.uk/iati_files/Country/DFID-Benin-Peoples-Republic-BJ.xml
 dfid-bl http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Balkan-Regional-BL.xml
 dfid-br http://iati.dfid.gov.uk/iati_files/Country/DFID-Brazil-BR.xml
-dfid-bt http://projects.dfid.gov.uk/iati/Country/BT
 dfid-cd http://iati.dfid.gov.uk/iati_files/Country/DFID-Congo-Dem-Rep-CD.xml
 dfid-cf http://iati.dfid.gov.uk/iati_files/Country/DFID-Central-African-Republic-CF.xml
 dfid-cg http://iati.dfid.gov.uk/iati_files/Country/DFID-Congo-Peoples-Republic-of-CG.xml
@@ -71,6 +71,7 @@ dfid-mg http://iati.dfid.gov.uk/iati_files/Country/DFID-Madagascar-MG.xml
 dfid-ml http://iati.dfid.gov.uk/iati_files/Country/DFID-Mali-ML.xml
 dfid-mm http://iati.dfid.gov.uk/iati_files/Country/DFID-Burma-MM.xml
 dfid-mn http://iati.dfid.gov.uk/iati_files/Country/DFID-Mongolia-MN.xml
+dfid-mr http://iati.dfid.gov.uk/iati_files/Country/DFID-Mauritania-MR.xml
 dfid-ms http://iati.dfid.gov.uk/iati_files/Country/DFID-Montserrat-MS.xml
 dfid-mv http://iati.dfid.gov.uk/iati_files/Country/DFID-Maldives-MV.xml
 dfid-mw http://iati.dfid.gov.uk/iati_files/Country/DFID-Malawi-MW.xml
@@ -94,13 +95,13 @@ dfid-ru http://iati.dfid.gov.uk/iati_files/Country/DFID-Russian-Federation-RU.xm
 dfid-rw http://iati.dfid.gov.uk/iati_files/Country/DFID-Rwanda-RW.xml
 dfid-sb http://iati.dfid.gov.uk/iati_files/Country/DFID-Solomon-Islands-SB.xml
 dfid-sd http://iati.dfid.gov.uk/iati_files/Country/DFID-Sudan-SD.xml
+dfid-sf http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Sahel-SF.xml
 dfid-sh http://iati.dfid.gov.uk/iati_files/Country/DFID-St-Helena-SH.xml
 dfid-sl http://iati.dfid.gov.uk/iati_files/Country/DFID-Sierra-Leone-SL.xml
 dfid-sn http://iati.dfid.gov.uk/iati_files/Country/DFID-Senegal-SN.xml
 dfid-so http://iati.dfid.gov.uk/iati_files/Country/DFID-Somalia-SO.xml
 dfid-sq http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-South-East-Asia-SQ.xml
 dfid-ss http://iati.dfid.gov.uk/iati_files/Country/DFID-South-Sudan-Republic-of-SS.xml
-dfid-su http://projects.dfid.gov.uk/iati/NonIATI/SU
 dfid-sy http://iati.dfid.gov.uk/iati_files/Country/DFID-Syria-SY.xml
 dfid-ta http://iati.dfid.gov.uk/iati_files/Country/DFID-Tristan-da-Cunha-TA.xml
 dfid-tc http://iati.dfid.gov.uk/iati_files/Country/DFID-Turks-and-Caicos-Islands-TC.xml
@@ -117,6 +118,7 @@ dfid-ug http://iati.dfid.gov.uk/iati_files/Country/DFID-Uganda-UG.xml
 dfid-vn http://iati.dfid.gov.uk/iati_files/Country/DFID-Vietnam-VN.xml
 dfid-vu http://iati.dfid.gov.uk/iati_files/Country/DFID-Vanuatu-VU.xml
 dfid-ws http://iati.dfid.gov.uk/iati_files/Country/DFID-Western-Samoa-WS.xml
+dfid-xa http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Sthrn-Af-Dev-Coord-Ctte-XA.xml
 dfid-xk http://iati.dfid.gov.uk/iati_files/Country/DFID-Kosovo-XK.xml
 dfid-ye http://iati.dfid.gov.uk/iati_files/Country/DFID-Yemen-YE.xml
 dfid-za http://iati.dfid.gov.uk/iati_files/Country/DFID-South-Africa-Republic-of-ZA.xml
