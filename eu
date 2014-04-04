@@ -29,12 +29,14 @@ eu-bj http://ec.europa.eu/europeaid/files/iati/EU_BJ.xml
 eu-bo http://ec.europa.eu/europeaid/files/iati/EU_BO.xml
 eu-br http://ec.europa.eu/europeaid/files/iati/EU_BR.xml
 eu-bt http://ec.europa.eu/europeaid/files/iati/EU_BT.xml
+eu-bw http://ec.europa.eu/europeaid/files/iati/EU_BW.xml
 eu-by http://ec.europa.eu/europeaid/files/iati/EU_BY.xml
 eu-bz http://ec.europa.eu/europeaid/files/iati/EU_BZ.xml
 eu-cd http://ec.europa.eu/europeaid/files/iati/EU_CD.xml
 eu-cf http://ec.europa.eu/europeaid/files/iati/EU_CF.xml
 eu-cg http://ec.europa.eu/europeaid/files/iati/EU_CG.xml
 eu-ci http://ec.europa.eu/europeaid/files/iati/EU_CI.xml
+eu-ck http://ec.europa.eu/europeaid/files/iati/EU_CK.xml
 eu-cl http://ec.europa.eu/europeaid/files/iati/EU_CL.xml
 eu-cm http://ec.europa.eu/europeaid/files/iati/EU_CM.xml
 eu-cn http://ec.europa.eu/europeaid/files/iati/EU_CN.xml
@@ -48,6 +50,7 @@ eu-do http://ec.europa.eu/europeaid/files/iati/EU_DO.xml
 eu-dz http://ec.europa.eu/europeaid/files/iati/EU_DZ.xml
 eu-ec http://ec.europa.eu/europeaid/files/iati/EU_EC.xml
 eu-eg http://ec.europa.eu/europeaid/files/iati/EU_EG.xml
+eu-er http://ec.europa.eu/europeaid/files/iati/EU_ER.xml
 eu-et http://ec.europa.eu/europeaid/files/iati/EU_ET.xml
 eu-fj http://ec.europa.eu/europeaid/files/iati/EU_FJ.xml
 eu-fm http://ec.europa.eu/europeaid/files/iati/EU_FM.xml
@@ -73,6 +76,7 @@ eu-kh http://ec.europa.eu/europeaid/files/iati/EU_KH.xml
 eu-ki http://ec.europa.eu/europeaid/files/iati/EU_KI.xml
 eu-km http://ec.europa.eu/europeaid/files/iati/EU_KM.xml
 eu-kn http://ec.europa.eu/europeaid/files/iati/EU_KN.xml
+eu-kp http://ec.europa.eu/europeaid/files/iati/EU_KP.xml
 eu-kz http://ec.europa.eu/europeaid/files/iati/EU_KZ.xml
 eu-la http://ec.europa.eu/europeaid/files/iati/EU_LA.xml
 eu-lb http://ec.europa.eu/europeaid/files/iati/EU_LB.xml
@@ -106,6 +110,7 @@ eu-pg http://ec.europa.eu/europeaid/files/iati/EU_PG.xml
 eu-ph http://ec.europa.eu/europeaid/files/iati/EU_PH.xml
 eu-pk http://ec.europa.eu/europeaid/files/iati/EU_PK.xml
 eu-ps http://ec.europa.eu/europeaid/files/iati/EU_PS.xml
+eu-pw http://ec.europa.eu/europeaid/files/iati/EU_PW.xml
 eu-py http://ec.europa.eu/europeaid/files/iati/EU_PY.xml
 eu-rw http://ec.europa.eu/europeaid/files/iati/EU_RW.xml
 eu-sb http://ec.europa.eu/europeaid/files/iati/EU_SB.xml
@@ -115,6 +120,7 @@ eu-sh http://ec.europa.eu/europeaid/files/iati/EU_SH.xml
 eu-sl http://ec.europa.eu/europeaid/files/iati/EU_SL.xml
 eu-sn http://ec.europa.eu/europeaid/files/iati/EU_SN.xml
 eu-so http://ec.europa.eu/europeaid/files/iati/EU_SO.xml
+eu-sr http://ec.europa.eu/europeaid/files/iati/EU_SR.xml
 eu-st http://ec.europa.eu/europeaid/files/iati/EU_ST.xml
 eu-sv http://ec.europa.eu/europeaid/files/iati/EU_SV.xml
 eu-sy http://ec.europa.eu/europeaid/files/iati/EU_SY.xml
@@ -124,8 +130,11 @@ eu-tg http://ec.europa.eu/europeaid/files/iati/EU_TG.xml
 eu-th http://ec.europa.eu/europeaid/files/iati/EU_TH.xml
 eu-tj http://ec.europa.eu/europeaid/files/iati/EU_TJ.xml
 eu-tl http://ec.europa.eu/europeaid/files/iati/EU_TL.xml
+eu-tm http://ec.europa.eu/europeaid/files/iati/EU_TM.xml
 eu-tn http://ec.europa.eu/europeaid/files/iati/EU_TN.xml
+eu-to http://ec.europa.eu/europeaid/files/iati/EU_TO.xml
 eu-tt http://ec.europa.eu/europeaid/files/iati/EU_TT.xml
+eu-tv http://ec.europa.eu/europeaid/files/iati/EU_TV.xml
 eu-tz http://ec.europa.eu/europeaid/files/iati/EU_TZ.xml
 eu-ua http://ec.europa.eu/europeaid/files/iati/EU_UA.xml
 eu-ug http://ec.europa.eu/europeaid/files/iati/EU_UG.xml
