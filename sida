@@ -13,7 +13,8 @@ sida-789 http://api.openaid.se/documents/xml/789.xml
 sida-798 http://api.openaid.se/documents/xml/798.xml
 sida-889 http://api.openaid.se/documents/xml/889.xml
 sida-89 http://api.openaid.se/documents/xml/89.xml
-sida-998 http://api.openaid.se/documents/xml/998.xml
+sida-998a http://api.openaid.se/documents/xml/998a.xml
+sida-998b http://api.openaid.se/documents/xml/998b.xml
 sida-af http://api.openaid.se/documents/xml/AF.xml
 sida-al http://api.openaid.se/documents/xml/AL.xml
 sida-am http://api.openaid.se/documents/xml/AM.xml
