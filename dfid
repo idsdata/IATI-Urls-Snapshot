@@ -81,7 +81,8 @@ dfid-ne http://iati.dfid.gov.uk/iati_files/Country/DFID-Niger-NE.xml
 dfid-ng http://iati.dfid.gov.uk/iati_files/Country/DFID-Nigeria-NG.xml
 dfid-ni http://iati.dfid.gov.uk/iati_files/Country/DFID-Nicaragua-NI.xml
 dfid-np http://iati.dfid.gov.uk/iati_files/Country/DFID-Nepal-NP.xml
-dfid-ns http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Non-Specific-Country-NS.xml
+dfid-ns1 http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Non-Specific-Country-NS-1.xml
+dfid-ns2 http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Non-Specific-Country-NS-2.xml
 dfid-org http://iati.dfid.gov.uk/iati_files/organisation.xml
 dfid-ot http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Overseas-Territories-OT.xml
 dfid-pe http://iati.dfid.gov.uk/iati_files/Country/DFID-Peru-PE.xml
