@@ -93,7 +93,7 @@ ausgov-ni http://dfat.gov.au/data/downloads/Australian_Aid_Country_File_NI.xml
 ausgov-np http://dfat.gov.au/data/downloads/Australian_Aid_Country_File_NP.xml
 ausgov-nr http://dfat.gov.au/data/downloads/Australian_Aid_Country_File_NR.xml
 ausgov-nu http://dfat.gov.au/data/downloads/Australian_Aid_Country_File_NU.xml
-ausgov-org http://dfat.gov.au/data/downloads/ausaid-organisation-file.xml
+ausgov-org http://www.dfat.gov.au/data/downloads/ausgov-organisation-file.xml
 ausgov-pa http://dfat.gov.au/data/downloads/Australian_Aid_Country_File_PA.xml
 ausgov-pe http://dfat.gov.au/data/downloads/Australian_Aid_Country_File_PE.xml
 ausgov-pg http://dfat.gov.au/data/downloads/Australian_Aid_Country_File_PG.xml
