@@ -1,4 +1,5 @@
 cif-679 http://siteresources.worldbank.org/IATI/CIF/CIF-679.xml
+cif-889 http://siteresources.worldbank.org/IATI/CIF/CIF-889.xml
 cif-bd http://siteresources.worldbank.org/IATI/CIF/CIF-BD.xml
 cif-bf http://siteresources.worldbank.org/IATI/CIF/CIF-BF.xml
 cif-bo http://siteresources.worldbank.org/IATI/CIF/CIF-BO.xml
@@ -6,10 +7,13 @@ cif-br http://siteresources.worldbank.org/IATI/CIF/CIF-BR.xml
 cif-cd http://siteresources.worldbank.org/IATI/CIF/CIF-CD.xml
 cif-cl http://siteresources.worldbank.org/IATI/CIF/CIF-CL.xml
 cif-co http://siteresources.worldbank.org/IATI/CIF/CIF-CO.xml
+cif-dm http://siteresources.worldbank.org/IATI/CIF/CIF-DM.xml
 cif-eg http://siteresources.worldbank.org/IATI/CIF/CIF-EG.xml
+cif-et http://siteresources.worldbank.org/IATI/CIF/CIF-ET.xml
 cif-gd http://siteresources.worldbank.org/IATI/CIF/CIF-GD.xml
 cif-gh http://siteresources.worldbank.org/IATI/CIF/CIF-GH.xml
 cif-hn http://siteresources.worldbank.org/IATI/CIF/CIF-HN.xml
+cif-ht http://siteresources.worldbank.org/IATI/CIF/CIF-HT.xml
 cif-id http://siteresources.worldbank.org/IATI/CIF/CIF-ID.xml
 cif-in http://siteresources.worldbank.org/IATI/CIF/CIF-IN.xml
 cif-ke http://siteresources.worldbank.org/IATI/CIF/CIF-KE.xml
