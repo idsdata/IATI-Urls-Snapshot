@@ -5,7 +5,7 @@ scuk-br http://iati.savethechildren.org.uk/files/activities-br.xml
 scuk-cd http://iati.savethechildren.org.uk/files/activities-cd.xml
 scuk-cn http://iati.savethechildren.org.uk/files/activities-cn.xml
 scuk-co http://iati.savethechildren.org.uk/files/activities-co.xml
-scuk-dfidppa20112014 http://iati.savethechildren.org.uk/files/SCUKPPA.xml
+scuk-dfidppa20112014 http://iati.savethechildren.org.uk/files/ppa20110401.xml
 scuk-ec http://iati.savethechildren.org.uk/files/activities-ec.xml
 scuk-eg http://iati.savethechildren.org.uk/files/activities-eg.xml
 scuk-et http://iati.savethechildren.org.uk/files/activities-et.xml
@@ -32,6 +32,7 @@ scuk-rw http://iati.savethechildren.org.uk/files/activities-rw.xml
 scuk-sl http://iati.savethechildren.org.uk/files/activities-sl.xml
 scuk-so http://iati.savethechildren.org.uk/files/activities-so.xml
 scuk-ss http://iati.savethechildren.org.uk/files/activities-ss.xml
+scuk-td http://iati.savethechildren.org.uk/files/activities-td.xml
 scuk-th http://iati.savethechildren.org.uk/files/activities-th.xml
 scuk-tj http://iati.savethechildren.org.uk/files/activities-tj.xml
 scuk-tz http://iati.savethechildren.org.uk/files/activities-tz.xml
