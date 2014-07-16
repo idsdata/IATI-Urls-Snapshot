@@ -61,7 +61,7 @@ unitedstates-dj http://datafagov.azurewebsites.net/Activities/Djibouti.xml
 unitedstates-dk http://datafagov.azurewebsites.net/Activities/Denmark.xml
 unitedstates-dm http://datafagov.azurewebsites.net/Activities/Dominica.xml
 unitedstates-do http://datafagov.azurewebsites.net/Activities/Dominican_Republic.xml
-unitedstates-dosandusaid http://datafagov.azurewebsites.net/Organisation/DOS and USAID/DOS and USAID.xml
+unitedstates-dosandusaid http://datafagov.azurewebsites.net/Organisation/DOSandUSAID/DOSandUSAID.xml
 unitedstates-dz http://datafagov.azurewebsites.net/Activities/Algeria.xml
 unitedstates-east_africa_region http://datafagov.azurewebsites.net/Activities/East_Africa_Region.xml
 unitedstates-east_asia_region http://datafagov.azurewebsites.net/Activities/East_Asia_Region.xml
@@ -163,7 +163,7 @@ unitedstates-nz http://datafagov.azurewebsites.net/Activities/New_Zealand.xml
 unitedstates-om http://datafagov.azurewebsites.net/Activities/Oman.xml
 unitedstates-pa http://datafagov.azurewebsites.net/Activities/Panama.xml
 unitedstates-pe http://datafagov.azurewebsites.net/Activities/Peru.xml
-unitedstates-peacecorps http://datafagov.azurewebsites.net/Organisation/Peace Corps/Peace Corps.xml
+unitedstates-peacecorps http://datafagov.azurewebsites.net/Organisation/PeaceCorps/PeaceCorps.xml
 unitedstates-pg http://datafagov.azurewebsites.net/Activities/Papua_New_Guinea.xml
 unitedstates-ph http://datafagov.azurewebsites.net/Activities/Philippines.xml
 unitedstates-pk http://datafagov.azurewebsites.net/Activities/Pakistan.xml
