@@ -1,14 +1,2 @@
-bmz-activities_189 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_North_of_Sahara_189.xml
-bmz-activities_289 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_South_of_Sahara_289.xml
-bmz-activities_298 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_Africa_298.xml
-bmz-activities_389 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_North_Central_America_389.xml
-bmz-activities_489 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_South_America_489.xml
-bmz-activities_498 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_America_498.xml
-bmz-activities_589 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_Middle_East_589.xml
-bmz-activities_689 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_South_Central_Asia_689.xml
-bmz-activities_789 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_Far_East_Asia_789.xml
-bmz-activities_798 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_Asia_798.xml
-bmz-activities_889 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_Oceania_889.xml
-bmz-activities_89 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_Europe_89.xml
-bmz-activities_998 http://www.bmz.de/iati/DE_IATI_ActivityData_Region_Bilateral_unspecified_998.xml
+bmz-activities http://www.bmz.de/iati/DE_IATI_ActivityData.xml
 bmz-org http://www.bmz.de/iati/DE_IATI_OrgData.xml
