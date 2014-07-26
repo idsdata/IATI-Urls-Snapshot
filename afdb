@@ -9,11 +9,11 @@ afdb-cameroon http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Docum
 afdb-capeverde http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATICapeVerdeData.xml
 afdb-centralafricanrepublic http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATICARData.xml
 afdb-chad http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATIChadData.xml
-afdb-ci http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATICotedIvoireData.xml
 afdb-comoros http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATIComorosData.xml
 afdb-congo http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATICongoData.xml
-afdb-djibouti http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATIDjiboutiData.xml
+afdb-ci http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATICotedIvoireData.xml
 afdb-drc http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATIDRCData.xml
+afdb-djibouti http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATIDjiboutiData.xml
 afdb-egypt http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATIEgyptData.xml
 afdb-equatorialguinea http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATIEquatorialGuineaData.xml
 afdb-eritrea http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATIEritreaData.xml
@@ -39,7 +39,6 @@ afdb-multinational http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-
 afdb-namibia http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATINamibiaData.xml
 afdb-niger http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATINigerData.xml
 afdb-nigeria http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATINigeriaData.xml
-afdb-org http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATIOrganisationData.xml
 afdb-rwanda http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATIRwandaData.xml
 afdb-saotome http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATISaoTomeandPrincipeData.xml
 afdb-senegal http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATISenegalData.xml
@@ -51,6 +50,7 @@ afdb-southsudan http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Doc
 afdb-sudan http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATISudanData.xml
 afdb-swaziland http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATISwazilandData.xml
 afdb-tanzania http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATITanzaniaData.xml
+afdb-org http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATIOrganisationData.xml
 afdb-togo http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATITogoData.xml
 afdb-tunisia http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATITunisiaData.xml
 afdb-uganda http://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/IATIUgandaData.xml
