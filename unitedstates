@@ -59,7 +59,7 @@ unitedstates-cd http://datafagov.azurewebsites.net/Activities/Congo_Democratic_R
 unitedstates-cg http://datafagov.azurewebsites.net/Activities/Congo_Republic_of.xml
 unitedstates-cr http://datafagov.azurewebsites.net/Activities/Costa_Rica.xml
 unitedstates-ci2 http://datafagov.azurewebsites.net/Activities/Cote_dIvoire.xml
-unitedstates-ci http://datafagov.azurewebsites.net/Activities/Cote_d`Ivoire.xml
+unitedstates-ci http://datafagov.azurewebsites.net/Activities/Cote_dIvoire.xml
 unitedstates-hr http://datafagov.azurewebsites.net/Activities/Croatia.xml
 unitedstates-cu http://datafagov.azurewebsites.net/Activities/Cuba.xml
 unitedstates-cy http://datafagov.azurewebsites.net/Activities/Cyprus.xml
@@ -219,7 +219,6 @@ unitedstates-tr http://datafagov.azurewebsites.net/Activities/Turkey.xml
 unitedstates-tm http://datafagov.azurewebsites.net/Activities/Turkmenistan.xml
 unitedstates-tc http://datafagov.azurewebsites.net/Activities/Turks_and_Caicos_Islands.xml
 unitedstates-tv http://datafagov.azurewebsites.net/Activities/Tuvalu.xml
-unitedstates-us_department_of_defense_world_wide http://datafagov.azurewebsites.net/Activities/U.S._Department_of_Defense_-_World-Wide.xml
 unitedstates-us_department_of_the_treasury__office_of_techni http://datafagov.azurewebsites.net/Activities/U.S._Department_of_the_Treasury_-_Office_of_Techni.xml
 unitedstates-589 http://datafagov.azurewebsites.net/Activities/USAID_Middle_East_Regional.xml
 unitedstates-ug http://datafagov.azurewebsites.net/Activities/Uganda.xml
