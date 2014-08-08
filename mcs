@@ -1,4 +1,5 @@
-mcs-cf http://www.aidstream.org/files/xml/mcs-cf.xml
-mcs-cd http://www.aidstream.org/files/xml/mcs-cd.xml
-mcs-np http://www.aidstream.org/files/xml/mcs-np.xml
+mcs-cf http://www.aidstream.org/public/files/xml/mcs-cf.xml
+mcs-cd http://www.aidstream.org/public/files/xml/mcs-cd.xml
+mcs-np http://www.aidstream.org/public/files/xml/mcs-np.xml
+mcs-ng http://www.aidstream.org/public/files/xml/mcs-ng.xml
 mcs-org http://www.aidstream.org/public/files/xml/mcs-org.xml
