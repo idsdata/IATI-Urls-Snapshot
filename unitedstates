@@ -21,7 +21,8 @@ unitedstates-az http://datafagov.azurewebsites.net/Activities/Azerbaijan.xml
 unitedstates-bs http://datafagov.azurewebsites.net/Activities/Bahamas_The.xml
 unitedstates-bh http://datafagov.azurewebsites.net/Activities/Bahrain.xml
 unitedstates-bd http://datafagov.azurewebsites.net/Activities/Bangladesh.xml
-unitedstates-bb http://datafagov.azurewebsites.net/Activities/Barbados.xml
+unitedstates-bb http://datafagov.azurewebsites.net/Activities/Barbadas.xml
+unitedstates-bbd http://datafagov.azurewebsites.net/Activities/Barbados.xml
 unitedstates-barbados_and_eastern_caribbean http://datafagov.azurewebsites.net/Activities/Barbados_and_Eastern_Caribbean.xml
 unitedstates-by http://datafagov.azurewebsites.net/Activities/Belarus.xml
 unitedstates-be http://datafagov.azurewebsites.net/Activities/Belgium.xml
@@ -54,6 +55,7 @@ unitedstates-td http://datafagov.azurewebsites.net/Activities/Chad.xml
 unitedstates-cl http://datafagov.azurewebsites.net/Activities/Chile.xml
 unitedstates-cn http://datafagov.azurewebsites.net/Activities/China.xml
 unitedstates-co http://datafagov.azurewebsites.net/Activities/Colombia.xml
+unitedstates-cb http://datafagov.azurewebsites.net/Activities/Columbia.xml
 unitedstates-km http://datafagov.azurewebsites.net/Activities/Comoros.xml
 unitedstates-cd http://datafagov.azurewebsites.net/Activities/Congo_Democratic_Republic_of.xml
 unitedstates-cg http://datafagov.azurewebsites.net/Activities/Congo_Republic_of.xml
@@ -64,7 +66,6 @@ unitedstates-hr http://datafagov.azurewebsites.net/Activities/Croatia.xml
 unitedstates-cu http://datafagov.azurewebsites.net/Activities/Cuba.xml
 unitedstates-cy http://datafagov.azurewebsites.net/Activities/Cyprus.xml
 unitedstates-cz http://datafagov.azurewebsites.net/Activities/Czech_Republic.xml
-unitedstates-cd2 http://datafagov.azurewebsites.net/Activities/Democratic_Republic_of_the_Congo.xml
 unitedstates-dk http://datafagov.azurewebsites.net/Activities/Denmark.xml
 unitedstates-dj http://datafagov.azurewebsites.net/Activities/Djibouti.xml
 unitedstates-dm http://datafagov.azurewebsites.net/Activities/Dominica.xml
@@ -219,6 +220,7 @@ unitedstates-tr http://datafagov.azurewebsites.net/Activities/Turkey.xml
 unitedstates-tm http://datafagov.azurewebsites.net/Activities/Turkmenistan.xml
 unitedstates-tc http://datafagov.azurewebsites.net/Activities/Turks_and_Caicos_Islands.xml
 unitedstates-tv http://datafagov.azurewebsites.net/Activities/Tuvalu.xml
+unitedstates-dod http://datafagov.azurewebsites.net/Activities/U.S._Department_of_Defense_-_World-Wide.xml
 unitedstates-us_department_of_the_treasury__office_of_techni http://datafagov.azurewebsites.net/Activities/U.S._Department_of_the_Treasury_-_Office_of_Techni.xml
 unitedstates-589 http://datafagov.azurewebsites.net/Activities/USAID_Middle_East_Regional.xml
 unitedstates-ug http://datafagov.azurewebsites.net/Activities/Uganda.xml
