@@ -29,7 +29,6 @@ cif-ph http://siteresources.worldbank.org/IATI/CIF/CIF-PH.xml
 cif-vc http://siteresources.worldbank.org/IATI/CIF/CIF-VC.xml
 cif-ws http://siteresources.worldbank.org/IATI/CIF/CIF-WS.xml
 cif-za http://siteresources.worldbank.org/IATI/CIF/CIF-ZA.xml
-cif-679 http://siteresources.worldbank.org/IATI/CIF/CIF-679.xml
 cif-tj http://siteresources.worldbank.org/IATI/CIF/CIF-TJ.xml
 cif-th http://siteresources.worldbank.org/IATI/CIF/CIF-TH.xml
 cif-to http://siteresources.worldbank.org/IATI/CIF/CIF-TO.xml
