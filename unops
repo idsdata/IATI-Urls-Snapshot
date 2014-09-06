@@ -5,6 +5,7 @@ unops-ag http://www.unops.org/iati/iati-activities/iati_activity_AG.xml
 unops-ar http://www.unops.org/iati/iati-activities/iati_activity_AR.xml
 unops-am http://www.unops.org/iati/iati-activities/iati_activity_AM.xml
 unops-bs http://www.unops.org/iati/iati-activities/iati_activity_BS.xml
+unops-bd http://www.unops.org/iati/iati-activities/iati_activity_BD.xml
 unops-bb http://www.unops.org/iati/iati-activities/iati_activity_BB.xml
 unops-by http://www.unops.org/iati/iati-activities/iati_activity_BY.xml
 unops-bz http://www.unops.org/iati/iati-activities/iati_activity_BZ.xml
@@ -56,6 +57,7 @@ unops-in http://www.unops.org/iati/iati-activities/iati_activity_IN.xml
 unops-id http://www.unops.org/iati/iati-activities/iati_activity_ID.xml
 unops-ir http://www.unops.org/iati/iati-activities/iati_activity_IR.xml
 unops-iq http://www.unops.org/iati/iati-activities/iati_activity_IQ.xml
+unops-ie http://www.unops.org/iati/iati-activities/iati_activity_IE.xml
 unops-il http://www.unops.org/iati/iati-activities/iati_activity_IL.xml
 unops-it http://www.unops.org/iati/iati-activities/iati_activity_IT.xml
 unops-jm http://www.unops.org/iati/iati-activities/iati_activity_JM.xml
@@ -112,6 +114,7 @@ unops-lc http://www.unops.org/iati/iati-activities/iati_activity_LC.xml
 unops-vc http://www.unops.org/iati/iati-activities/iati_activity_VC.xml
 unops-ws http://www.unops.org/iati/iati-activities/iati_activity_WS.xml
 unops-st http://www.unops.org/iati/iati-activities/iati_activity_ST.xml
+unops-sa http://www.unops.org/iati/iati-activities/iati_activity_SA.xml
 unops-sn http://www.unops.org/iati/iati-activities/iati_activity_SN.xml
 unops-rs http://www.unops.org/iati/iati-activities/iati_activity_RS.xml
 unops-sc http://www.unops.org/iati/iati-activities/iati_activity_SC.xml
