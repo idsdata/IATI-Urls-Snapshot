@@ -19,6 +19,7 @@ ocha_fts-drc_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16425.xml
 ocha_fts-djibouti_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16114.xml
 ocha_fts-djibouti_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16274.xml
 ocha_fts-djibouti_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16426.xml
+ocha_fts-ebola_virus_outbreak_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16506.xml
 ocha_fts-gambia_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16456.xml
 ocha_fts-haiti_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16113.xml
 ocha_fts-haiti_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16299.xml
@@ -35,6 +36,7 @@ ocha_fts-mauritania_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16168.xm
 ocha_fts-mauritania_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16264.xml
 ocha_fts-mauritania_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16430.xml
 ocha_fts-myanmar_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16157.xml
+ocha_fts-myanmar_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16448.xml
 ocha_fts-niger_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16107.xml
 ocha_fts-niger_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16278.xml
 ocha_fts-niger_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16431.xml
@@ -44,6 +46,7 @@ ocha_fts-pakistan_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16152.xml
 ocha_fts-philippines_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16110.xml
 ocha_fts-philippines_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16277.xml
 ocha_fts-philippines_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16433.xml
+ocha_fts-sahel_regional_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16474.xml
 ocha_fts-senegal_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16457.xml
 ocha_fts-somalia_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16103.xml
 ocha_fts-somalia_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16269.xml
@@ -51,6 +54,7 @@ ocha_fts-somalia_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16434.xml
 ocha_fts-southsudan_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16104.xml
 ocha_fts-southsudan_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16279.xml
 ocha_fts-southsudan_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16419.xml
+ocha_fts-south_sudan_refugee_crisis_2014 http://fts.unocha.org/api/v1/iati/emergency/id/16507.xml
 ocha_fts-srilanka_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16136.xml
 ocha_fts-sudan_2012 http://fts.unocha.org/api/v1/iati/emergency/id/16105.xml
 ocha_fts-sudan_2013 http://fts.unocha.org/api/v1/iati/emergency/id/16267.xml
