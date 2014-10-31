@@ -6,12 +6,12 @@ unicef-angola http://www.unicef.org/transparency/files/countrydata/iatiActivity_
 unicef-argentina http://www.unicef.org/transparency/files/countrydata/iatiActivity_Argentina.xml
 unicef-armenia http://www.unicef.org/transparency/files/countrydata/iatiActivity_Armenia.xml
 unicef-azerbaijan http://www.unicef.org/transparency/files/countrydata/iatiActivity_Azerbaijan.xml
-unicef-bangladesh http://www.unicef.org/transparency/files/countrydata/iatiActivity_Bangladesh.xml
+unicef-bangladesh http://www.unicef.org/transparency/files/iatiActivity_Bangladesh.xml
 unicef-barbados http://www.unicef.org/transparency/files/countrydata/iatiActivity_Barbados.xml
 unicef-belarus http://www.unicef.org/transparency/files/countrydata/iatiActivity_Belarus.xml
 unicef-belize http://www.unicef.org/transparency/files/countrydata/iatiActivity_Belize.xml
 unicef-benin http://www.unicef.org/transparency/files/countrydata/iatiActivity_Benin.xml
-unicef-bhutan http://www.unicef.org/transparency/files/countrydata/iatiActivity_Bhutan.xml
+unicef-bhutan http://www.unicef.org/transparency/files/iatiActivity_Bhutan.xml
 unicef-bolivia http://www.unicef.org/transparency/files/countrydata/iatiActivity_Bolivia.xml
 unicef-bosniaherzegovina http://www.unicef.org/transparency/files/countrydata/iatiActivity_Bosnia%20and%20Herzegovina.xml
 unicef-botswana http://www.unicef.org/transparency/files/countrydata/iatiActivity_Botswana.xml
@@ -56,7 +56,7 @@ unicef-guineabissau http://www.unicef.org/transparency/files/countrydata/iatiAct
 unicef-guyana http://www.unicef.org/transparency/files/countrydata/iatiActivity_Guyana.xml
 unicef-haiti http://www.unicef.org/transparency/files/countrydata/iatiActivity_Haiti.xml
 unicef-honduras http://www.unicef.org/transparency/files/countrydata/iatiActivity_Honduras.xml
-unicef-india http://www.unicef.org/transparency/files/countrydata/iatiActivity_India.xml
+unicef-india http://www.unicef.org/transparency/files/iatiActivity_India.xml
 unicef-indonesia http://www.unicef.org/transparency/files/countrydata/iatiActivity_Indonesia.xml
 unicef-iran http://www.unicef.org/transparency/files/countrydata/iatiActivity_Iran.xml
 unicef-iraq http://www.unicef.org/transparency/files/countrydata/iatiActivity_Iraq.xml
@@ -77,7 +77,7 @@ unicef-macedonia http://www.unicef.org/transparency/files/countrydata/iatiActivi
 unicef-madagascar http://www.unicef.org/transparency/files/countrydata/iatiActivity_Madagascar.xml
 unicef-malawi http://www.unicef.org/transparency/files/countrydata/iatiActivity_Malawi.xml
 unicef-malaysia http://www.unicef.org/transparency/files/countrydata/iatiActivity_Malaysia.xml
-unicef-maldives http://www.unicef.org/transparency/files/countrydata/iatiActivity_Maldives.xml
+unicef-maldives http://www.unicef.org/transparency/files/iatiActivity_Maldives.xml
 unicef-mali http://www.unicef.org/transparency/files/countrydata/iatiActivity_Mali.xml
 unicef-mauritania http://www.unicef.org/transparency/files/countrydata/iatiActivity_Mauritania.xml
 unicef-mexico http://www.unicef.org/transparency/files/countrydata/iatiActivity_Mexico.xml
@@ -88,13 +88,13 @@ unicef-morocco http://www.unicef.org/transparency/files/countrydata/iatiActivity
 unicef-mozambique http://www.unicef.org/transparency/files/countrydata/iatiActivity_Mozambique,%20Rep.%20of.xml
 unicef-myanmar http://www.unicef.org/transparency/files/countrydata/iatiActivity_Myanmar.xml
 unicef-namibia http://www.unicef.org/transparency/files/countrydata/iatiActivity_Namibia.xml
-unicef-nepal http://www.unicef.org/transparency/files/countrydata/iatiActivity_Nepal.xml
+unicef-nepal http://www.unicef.org/transparency/files/iatiActivity_Nepal.xml
 unicef-nicaragua http://www.unicef.org/transparency/files/countrydata/iatiActivity_Nicaragua.xml
 unicef-niger http://www.unicef.org/transparency/files/countrydata/iatiActivity_Niger.xml
 unicef-nigeria http://www.unicef.org/transparency/files/countrydata/iatiActivity_Nigeria.xml
 unicef-oman http://www.unicef.org/transparency/files/countrydata/iatiActivity_Oman.xml
 unicef-pacificislands http://www.unicef.org/transparency/files/countrydata/iatiActivity_Pacific%20Islands.xml
-unicef-pakistan http://www.unicef.org/transparency/files/countrydata/iatiActivity_Pakistan.xml
+unicef-pakistan http://www.unicef.org/transparency/files/iatiActivity_Pakistan.xml
 unicef-palestine http://www.unicef.org/transparency/files/countrydata/iatiActivity_Palestine.xml
 unicef-panama http://www.unicef.org/transparency/files/countrydata/iatiActivity_Panama.xml
 unicef-papuanewguinea http://www.unicef.org/transparency/files/countrydata/iatiActivity_Papua%20New%20Guinea.xml
@@ -112,7 +112,7 @@ unicef-sierraleone http://www.unicef.org/transparency/files/countrydata/iatiActi
 unicef-somalia http://www.unicef.org/transparency/files/countrydata/iatiActivity_Somalia.xml
 unicef-southafrica http://www.unicef.org/transparency/files/countrydata/iatiActivity_South%20Africa.xml
 unicef-southsudan http://www.unicef.org/transparency/files/countrydata/iatiActivity_South%20Sudan.xml
-unicef-srilanka http://www.unicef.org/transparency/files/countrydata/iatiActivity_Sri%20Lanka.xml
+unicef-srilanka http://www.unicef.org/transparency/files/iatiActivity_Sri_Lanka.xml
 unicef-sudan http://www.unicef.org/transparency/files/countrydata/iatiActivity_Sudan.xml
 unicef-swaziland http://www.unicef.org/transparency/files/countrydata/iatiActivity_Swaziland.xml
 unicef-syria http://www.unicef.org/transparency/files/countrydata/iatiActivity_Syria.xml
