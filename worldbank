@@ -36,6 +36,7 @@ worldbank-ci http://siteresources.worldbank.org/IATI/WB-CI.xml
 worldbank-hr http://siteresources.worldbank.org/IATI/WB-HR.xml
 worldbank-619 http://siteresources.worldbank.org/IATI/WB-619.xml
 worldbank-dj http://siteresources.worldbank.org/IATI/WB-DJ.xml
+worldbank-dm http://siteresources.worldbank.org/IATI/WB-DM.xml
 worldbank-do http://siteresources.worldbank.org/IATI/WB-DO.xml
 worldbank-ec http://siteresources.worldbank.org/IATI/WB-EC.xml
 worldbank-eg http://siteresources.worldbank.org/IATI/WB-EG.xml
@@ -77,6 +78,7 @@ worldbank-mh http://siteresources.worldbank.org/IATI/WB-MH.xml
 worldbank-mr http://siteresources.worldbank.org/IATI/WB-MR.xml
 worldbank-mu http://siteresources.worldbank.org/IATI/WB-MU.xml
 worldbank-mx http://siteresources.worldbank.org/IATI/WB-MX.xml
+worldbank-fm http://siteresources.worldbank.org/IATI/WB-FM.xml
 worldbank-md http://siteresources.worldbank.org/IATI/WB-MD.xml
 worldbank-mn http://siteresources.worldbank.org/IATI/WB-MN.xml
 worldbank-me http://siteresources.worldbank.org/IATI/WB-ME.xml
