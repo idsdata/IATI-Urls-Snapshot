@@ -9,6 +9,7 @@ ec-fpi-ba http://ec.europa.eu/europeaid/files/iati/EU_FPI_BA.xml
 ec-fpi-br http://ec.europa.eu/europeaid/files/iati/EU_FPI_BR.xml
 ec-fpi-bf http://ec.europa.eu/europeaid/files/iati/EU_FPI_BF.xml
 ec-fpi-bi http://ec.europa.eu/europeaid/files/iati/EU_FPI_BI.xml
+ec-fpi-cm http://ec.europa.eu/europeaid/files/iati/EU_FPI_CM.xml
 ec-fpi-cf http://ec.europa.eu/europeaid/files/iati/EU_FPI_CF.xml
 ec-fpi-619 http://ec.europa.eu/europeaid/files/iati/EU_FPI_QRS.xml
 ec-fpi-td http://ec.europa.eu/europeaid/files/iati/EU_FPI_TD.xml
@@ -30,6 +31,7 @@ ec-fpi-ht http://ec.europa.eu/europeaid/files/iati/EU_FPI_HT.xml
 ec-fpi-hn http://ec.europa.eu/europeaid/files/iati/EU_FPI_HN.xml
 ec-fpi-in http://ec.europa.eu/europeaid/files/iati/EU_FPI_IN.xml
 ec-fpi-id http://ec.europa.eu/europeaid/files/iati/EU_FPI_ID.xml
+ec-fpi-ir http://ec.europa.eu/europeaid/files/iati/EU_FPI_IR.xml
 ec-fpi-iq http://ec.europa.eu/europeaid/files/iati/EU_FPI_IQ.xml
 ec-fpi-jo http://ec.europa.eu/europeaid/files/iati/EU_FPI_JO.xml
 ec-fpi-ke http://ec.europa.eu/europeaid/files/iati/EU_FPI_KE.xml
@@ -50,6 +52,7 @@ ec-fpi-ng http://ec.europa.eu/europeaid/files/iati/EU_FPI_NG.xml
 ec-fpi-389 http://ec.europa.eu/europeaid/files/iati/EU_FPI_QNC.xml
 ec-fpi-pk http://ec.europa.eu/europeaid/files/iati/EU_FPI_PK.xml
 ec-fpi-ps http://ec.europa.eu/europeaid/files/iati/EU_FPI_PS.xml
+ec-fpi-pe http://ec.europa.eu/europeaid/files/iati/EU_FPI_PE.xml
 ec-fpi-ph http://ec.europa.eu/europeaid/files/iati/EU_FPI_PH.xml
 ec-fpi-sn http://ec.europa.eu/europeaid/files/iati/EU_FPI_SN.xml
 ec-fpi-sl http://ec.europa.eu/europeaid/files/iati/EU_FPI_SL.xml
@@ -66,5 +69,6 @@ ec-fpi-tl http://ec.europa.eu/europeaid/files/iati/EU_FPI_TL.xml
 ec-fpi-tg http://ec.europa.eu/europeaid/files/iati/EU_FPI_TG.xml
 ec-fpi-tn http://ec.europa.eu/europeaid/files/iati/EU_FPI_TN.xml
 ec-fpi-ua http://ec.europa.eu/europeaid/files/iati/EU_FPI_UA.xml
+ec-fpi-380 http://ec.europa.eu/europeaid/files/iati/EU_FPI_QNB.xml
 ec-fpi-ye http://ec.europa.eu/europeaid/files/iati/EU_FPI_YE.xml
 ec-fpi-zw http://ec.europa.eu/europeaid/files/iati/EU_FPI_ZW.xml
