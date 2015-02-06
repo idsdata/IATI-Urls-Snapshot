@@ -35,7 +35,7 @@ unicef-cotedivoire2 http://www.unicef.org/transparency/files/countrydata/iatiact
 unicef-croatia http://www.unicef.org/transparency/files/countrydata/iatiActivity_Croatia.xml
 unicef-cuba http://www.unicef.org/transparency/files/countrydata/iatiActivity_Cuba.xml
 unicef-dprk http://www.unicef.org/transparency/files/countrydata/iatiActivity_DP%20Republic%20of%20Korea.xml
-unicef-drc http://www.unicef.org/transparency/files/iatiActivity_Democratic_Republic_of_Congo.xml
+unicef-drc http://www.unicef.org/transparency/files/countrydata/iatiActivity_Democratic%20Republic%20of%20Congo.xml
 unicef-djibouti http://www.unicef.org/transparency/files/countrydata/iatiActivity_Djibouti.xml
 unicef-dominicanrepublic http://www.unicef.org/transparency/files/countrydata/iatiActivity_Dominican%20Republic.xml
 unicef-eapro1 http://www.unicef.org/transparency/files/countrydata/iatiactivity_eapro.xml
@@ -91,7 +91,7 @@ unicef-namibia http://www.unicef.org/transparency/files/countrydata/iatiActivity
 unicef-nepal http://www.unicef.org/transparency/files/iatiActivity_Nepal.xml
 unicef-nicaragua http://www.unicef.org/transparency/files/countrydata/iatiActivity_Nicaragua.xml
 unicef-niger http://www.unicef.org/transparency/files/countrydata/iatiActivity_Niger.xml
-unicef-nigeria http://www.unicef.org/transparency/files/iatiActivity_Nigeria.xml
+unicef-nigeria http://www.unicef.org/transparency/files/countrydata/iatiActivity_Nigeria.xml
 unicef-oman http://www.unicef.org/transparency/files/countrydata/iatiActivity_Oman.xml
 unicef-pacificislands http://www.unicef.org/transparency/files/countrydata/iatiActivity_Pacific%20Islands.xml
 unicef-pakistan http://www.unicef.org/transparency/files/iatiActivity_Pakistan.xml
@@ -133,5 +133,5 @@ unicef-vietnam http://www.unicef.org/transparency/files/countrydata/iatiActivity
 unicef-wcaro http://www.unicef.org/transparency/files/countrydata/iatiactivity_wcaro.xml
 unicef-yemen http://www.unicef.org/transparency/files/countrydata/iatiActivity_Yemen.xml
 unicef-zambia http://www.unicef.org/transparency/files/countrydata/iatiActivity_Zambia.xml
-unicef-zimbabwe http://www.unicef.org/transparency/files/iatiActivity_Zimbabwe.xml
+unicef-zimbabwe http://www.unicef.org/transparency/files/countrydata/iatiActivity_Zimbabwe.xml
 unicef-organisation http://www.unicef.org/transparency/files/UNICEF_Organization_File_-_June_2014.xml
