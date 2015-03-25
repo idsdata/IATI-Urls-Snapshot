@@ -23,6 +23,7 @@ eu-bo http://ec.europa.eu/europeaid/files/iati/EU_BO.xml
 eu-ba http://ec.europa.eu/europeaid/files/iati/EU_BA.xml
 eu-bw http://ec.europa.eu/europeaid/files/iati/EU_BW.xml
 eu-br http://ec.europa.eu/europeaid/files/iati/EU_BR.xml
+eu-bg http://ec.europa.eu/europeaid/files/iati/EU_BG.xml
 eu-bf http://ec.europa.eu/europeaid/files/iati/EU_BF.xml
 eu-bi http://ec.europa.eu/europeaid/files/iati/EU_BI.xml
 eu-kh http://ec.europa.eu/europeaid/files/iati/EU_KH.xml
@@ -63,6 +64,7 @@ eu-tf http://ec.europa.eu/europeaid/files/iati/EU_TF.xml
 eu-ga http://ec.europa.eu/europeaid/files/iati/EU_GA.xml
 eu-gm http://ec.europa.eu/europeaid/files/iati/EU_GM.xml
 eu-ge http://ec.europa.eu/europeaid/files/iati/EU_GE.xml
+eu-de http://ec.europa.eu/europeaid/files/iati/EU_DE.xml
 eu-gh http://ec.europa.eu/europeaid/files/iati/EU_GH.xml
 eu-gl http://ec.europa.eu/europeaid/files/iati/EU_GL.xml
 eu-gd http://ec.europa.eu/europeaid/files/iati/EU_GD.xml
@@ -73,6 +75,8 @@ eu-gy http://ec.europa.eu/europeaid/files/iati/EU_GY.xml
 eu-ht http://ec.europa.eu/europeaid/files/iati/EU_HT.xml
 eu-hn http://ec.europa.eu/europeaid/files/iati/EU_HN.xml
 eu-hk http://ec.europa.eu/europeaid/files/iati/EU_HK.xml
+eu-hu http://ec.europa.eu/europeaid/files/iati/EU_HU.xml
+eu-is http://ec.europa.eu/europeaid/files/iati/EU_IS.xml
 eu-in http://ec.europa.eu/europeaid/files/iati/EU_IN.xml
 eu-id http://ec.europa.eu/europeaid/files/iati/EU_ID.xml
 eu-ir http://ec.europa.eu/europeaid/files/iati/EU_IR.xml
@@ -145,6 +149,7 @@ eu-rs http://ec.europa.eu/europeaid/files/iati/EU_RS.xml
 eu-cs http://ec.europa.eu/europeaid/files/iati/EU_CS.xml
 eu-sc http://ec.europa.eu/europeaid/files/iati/EU_SC.xml
 eu-sl http://ec.europa.eu/europeaid/files/iati/EU_SL.xml
+eu-sk http://ec.europa.eu/europeaid/files/iati/EU_SK.xml
 eu-si http://ec.europa.eu/europeaid/files/iati/EU_SI.xml
 eu-sb http://ec.europa.eu/europeaid/files/iati/EU_SB.xml
 eu-so http://ec.europa.eu/europeaid/files/iati/EU_SO.xml
