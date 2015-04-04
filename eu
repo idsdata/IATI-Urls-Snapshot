@@ -2,7 +2,6 @@ eu-org http://ec.europa.eu/europeaid/files/iati/IATI_Organisation_DEVCO.xml
 eu-af http://ec.europa.eu/europeaid/files/iati/EU_AF.xml
 eu-298 http://ec.europa.eu/europeaid/files/iati/EU_QMA.xml
 eu-al http://ec.europa.eu/europeaid/files/iati/EU_AL.xml
-eu-dz http://ec.europa.eu/europeaid/files/iati/EU_DZ.xml
 eu-498 http://ec.europa.eu/europeaid/files/iati/EU_QNA.xml
 eu-ao http://ec.europa.eu/europeaid/files/iati/EU_AO.xml
 eu-ai http://ec.europa.eu/europeaid/files/iati/EU_AI.xml
@@ -11,7 +10,6 @@ eu-ar http://ec.europa.eu/europeaid/files/iati/EU_AR.xml
 eu-am http://ec.europa.eu/europeaid/files/iati/EU_AM.xml
 eu-aw http://ec.europa.eu/europeaid/files/iati/EU_AW.xml
 eu-798 http://ec.europa.eu/europeaid/files/iati/EU_QRA.xml
-eu-az http://ec.europa.eu/europeaid/files/iati/EU_AZ.xml
 eu-bd http://ec.europa.eu/europeaid/files/iati/EU_BD.xml
 eu-bb http://ec.europa.eu/europeaid/files/iati/EU_BB.xml
 eu-by http://ec.europa.eu/europeaid/files/iati/EU_BY.xml
@@ -81,7 +79,6 @@ eu-in http://ec.europa.eu/europeaid/files/iati/EU_IN.xml
 eu-id http://ec.europa.eu/europeaid/files/iati/EU_ID.xml
 eu-ir http://ec.europa.eu/europeaid/files/iati/EU_IR.xml
 eu-iq http://ec.europa.eu/europeaid/files/iati/EU_IQ.xml
-eu-il http://ec.europa.eu/europeaid/files/iati/EU_IL.xml
 eu-jm http://ec.europa.eu/europeaid/files/iati/EU_JM.xml
 eu-jo http://ec.europa.eu/europeaid/files/iati/EU_JO.xml
 eu-kz http://ec.europa.eu/europeaid/files/iati/EU_KZ.xml
@@ -92,7 +89,6 @@ eu-xk http://ec.europa.eu/europeaid/files/iati/EU_XK.xml
 eu-kg http://ec.europa.eu/europeaid/files/iati/EU_KG.xml
 eu-la http://ec.europa.eu/europeaid/files/iati/EU_LA.xml
 eu-lv http://ec.europa.eu/europeaid/files/iati/EU_LV.xml
-eu-lb http://ec.europa.eu/europeaid/files/iati/EU_LB.xml
 eu-ls http://ec.europa.eu/europeaid/files/iati/EU_LS.xml
 eu-lr http://ec.europa.eu/europeaid/files/iati/EU_LR.xml
 eu-ly http://ec.europa.eu/europeaid/files/iati/EU_LY.xml
@@ -112,7 +108,6 @@ eu-yt http://ec.europa.eu/europeaid/files/iati/EU_YT.xml
 eu-mx http://ec.europa.eu/europeaid/files/iati/EU_MX.xml
 eu-fm http://ec.europa.eu/europeaid/files/iati/EU_FM.xml
 eu-589 http://ec.europa.eu/europeaid/files/iati/EU_QRE.xml
-eu-md http://ec.europa.eu/europeaid/files/iati/EU_MD.xml
 eu-mn http://ec.europa.eu/europeaid/files/iati/EU_MN.xml
 eu-me http://ec.europa.eu/europeaid/files/iati/EU_ME.xml
 eu-ms http://ec.europa.eu/europeaid/files/iati/EU_MS.xml
@@ -170,7 +165,6 @@ eu-sd http://ec.europa.eu/europeaid/files/iati/EU_SD.xml
 eu-sr http://ec.europa.eu/europeaid/files/iati/EU_SR.xml
 eu-sz http://ec.europa.eu/europeaid/files/iati/EU_SZ.xml
 eu-se http://ec.europa.eu/europeaid/files/iati/EU_SE.xml
-eu-sy http://ec.europa.eu/europeaid/files/iati/EU_SY.xml
 eu-tw http://ec.europa.eu/europeaid/files/iati/EU_TW.xml
 eu-tj http://ec.europa.eu/europeaid/files/iati/EU_TJ.xml
 eu-tz http://ec.europa.eu/europeaid/files/iati/EU_TZ.xml
