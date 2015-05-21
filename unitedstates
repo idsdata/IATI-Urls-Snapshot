@@ -1,8 +1,10 @@
-unitedstates-dosandusaid http://www.foreignassistance.gov/web/IATI/Organisation/DOSandUSAID/DOSandUSAID.xml
-unitedstates-iaf http://www.foreignassistance.gov/web/IATI/Organisation/IAF/IAF.xml
-unitedstates-mcc http://www.foreignassistance.gov/web/IATI/Organisation/MCC/MCC.xml
-unitedstates-peacecorps http://www.foreignassistance.gov/web/IATI/Organisation/PeaceCorps/PeaceCorps.xml
-unitedstates-treasury http://www.foreignassistance.gov/web/IATI/Organisation/Treasury/Treasury.xml
+unitedstates-dod http://beta.foreignassistance.gov/assets/Organisations/DOD.xml
+unitedstates-dosandusaid http://beta.foreignassistance.gov/assets/Organisations/DOS%20and%20USAID.xml
+unitedstates-hhs http://beta.foreignassistance.gov/assets/Organisations/HHS.xml
+unitedstates-iaf http://beta.foreignassistance.gov/assets/Organisations/IAF.xml
+unitedstates-mcc http://beta.foreignassistance.gov/assets/Organisations/MCC.xml
+unitedstates-peacecorps http://beta.foreignassistance.gov/assets/Organisations/Peace Corps.xml
+unitedstates-treasury http://beta.foreignassistance.gov/assets/Organisations/Treasury.xml
 unitedstates-af http://www.foreignassistance.gov/web/IATI/Activities/Afghanistan.xml
 unitedstates-298 http://www.foreignassistance.gov/web/IATI/Activities/Africa_Region.xml
 unitedstates-al http://www.foreignassistance.gov/web/IATI/Activities/Albania.xml
@@ -219,7 +221,6 @@ unitedstates-tr http://www.foreignassistance.gov/web/IATI/Activities/Turkey.xml
 unitedstates-tm http://www.foreignassistance.gov/web/IATI/Activities/Turkmenistan.xml
 unitedstates-tc http://www.foreignassistance.gov/web/IATI/Activities/Turks_and_Caicos_Islands.xml
 unitedstates-tv http://www.foreignassistance.gov/web/IATI/Activities/Tuvalu.xml
-unitedstates-dod http://www.foreignassistance.gov/web/IATI/Activities/U.S._Department_of_Defense_-_World-Wide.xml
 unitedstates-us_department_of_the_treasury__office_of_techni http://www.foreignassistance.gov/web/IATI/Activities/U.S._Department_of_the_Treasury_-_Office_of_Techni.xml
 unitedstates-589 http://www.foreignassistance.gov/web/IATI/Activities/USAID_Middle_East_Regional.xml
 unitedstates-ug http://www.foreignassistance.gov/web/IATI/Activities/Uganda.xml
@@ -239,5 +240,5 @@ unitedstates-western_sahara http://www.foreignassistance.gov/web/IATI/Activities
 unitedstates-ye http://www.foreignassistance.gov/web/IATI/Activities/Yemen.xml
 unitedstates-zm http://www.foreignassistance.gov/web/IATI/Activities/Zambia.xml
 unitedstates-zw http://www.foreignassistance.gov/web/IATI/Activities/Zimbabwe.xml
-unitedstates-usadf http://www.foreignassistance.gov/web/IATI/Organisation/USADF/USADF.xml
-unitedstates-usda http://www.foreignassistance.gov/web/IATI/Organisation/USDA/USDA.xml
+unitedstates-usadf http://beta.foreignassistance.gov/assets/Organisations/ADF.xml
+unitedstates-usda http://beta.foreignassistance.gov/assets/Organisations/USDA.xml
