@@ -2,7 +2,7 @@ unitedstates-dod http://beta.foreignassistance.gov/assets/Organisations/DOD.xml
 unitedstates-dosandusaid http://beta.foreignassistance.gov/assets/Organisations/DOS%20and%20USAID.xml
 unitedstates-hhs http://beta.foreignassistance.gov/assets/Organisations/HHS.xml
 unitedstates-iaf http://beta.foreignassistance.gov/assets/Organisations/IAF.xml
-unitedstates-mcc http://beta.foreignassistance.gov/assets/Organisations/MCC.xml
+unitedstates-org_mcc http://beta.foreignassistance.gov/assets/Organisations/MCC.xml
 unitedstates-peacecorps http://beta.foreignassistance.gov/assets/Organisations/Peace Corps.xml
 unitedstates-treasury http://beta.foreignassistance.gov/assets/Organisations/Treasury.xml
 unitedstates-af http://beta.foreignassistance.gov/assets/IATI/Afghanistan.xml
@@ -282,4 +282,6 @@ unitedstates-ye http://www.foreignassistance.gov/web/IATI/Activities/Yemen.xml
 unitedstates-zm http://beta.foreignassistance.gov/assets/IATI/Zambia.xml
 unitedstates-zw http://www.foreignassistance.gov/web/IATI/Activities/Zimbabwe.xml
 unitedstates-usadf http://beta.foreignassistance.gov/assets/Organisations/ADF.xml
+unitedstates-org_usadf http://beta.foreignassistance.gov/assets/Organisations/ADF.xml
+unitedstates-org_usda http://beta.foreignassistance.gov/assets/Organisations/USDA.xml
 unitedstates-usda http://beta.foreignassistance.gov/assets/Organisations/USDA.xml
