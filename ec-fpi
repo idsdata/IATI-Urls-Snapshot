@@ -33,6 +33,7 @@ ec-fpi-id http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_ID.xml
 ec-fpi-ir http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_IR.xml
 ec-fpi-iq http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_IQ.xml
 ec-fpi-jo http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_JO.xml
+ec-fpi-ke http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_KE.xml
 ec-fpi-kg http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_KG.xml
 ec-fpi-lb http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_LB.xml
 ec-fpi-lr http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_LR.xml
@@ -51,7 +52,9 @@ ec-fpi-pk http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_PK.xml
 ec-fpi-ps http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_PS.xml
 ec-fpi-pe http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_PE.xml
 ec-fpi-ph http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_PH.xml
+ec-fpi-sn http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_SN.xml
 ec-fpi-sl http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_SL.xml
+ec-fpi-sb http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_SB.xml
 ec-fpi-so http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_SO.xml
 ec-fpi-679 http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_QRC.xml
 ec-fpi-ss http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_SS.xml
