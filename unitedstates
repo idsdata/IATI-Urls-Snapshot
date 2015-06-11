@@ -305,8 +305,7 @@ unitedstates-worldwide_democracy_human_rights_and_governance http://beta.foreign
 unitedstates-worldwide_economic_development http://beta.foreignassistance.gov/assets/IATI/Worldwide_economic_development.xml
 unitedstates-worldwide_education_and_social_services http://beta.foreignassistance.gov/assets/IATI/Worldwide_education_and_social_services.xml
 unitedstates-worldwide_environment http://beta.foreignassistance.gov/assets/IATI/Worldwide_environment.xml
-unitedstates-worldwide_health_1 http://beta.foreignassistance.gov/assets/IATI/Worldwide_health_1.xml
-unitedstates-worldwide_health_2 http://beta.foreignassistance.gov/assets/IATI/Worldwide_health_2.xml
+unitedstates-worldwide_health http://beta.foreignassistance.gov/assets/IATI/Worldwide_health_1.xml
 unitedstates-worldwide_humanitarian_assistance http://beta.foreignassistance.gov/assets/IATI/Worldwide_humanitarian_assistance.xml
 unitedstates-worldwide_multisector_unspecified http://beta.foreignassistance.gov/assets/IATI/Worldwide_multisector_unspecified.xml
 unitedstates-worldwide_peace_and_security_1 http://beta.foreignassistance.gov/assets/IATI/Worldwide_peace_and_security_1.xml
@@ -314,8 +313,8 @@ unitedstates-worldwide_peace_and_security_2 http://beta.foreignassistance.gov/as
 unitedstates-worldwide_pepfar_1 http://beta.foreignassistance.gov/assets/IATI/Worldwide_PEPFAR_1.xml
 unitedstates-worldwide_pepfar_2 http://beta.foreignassistance.gov/assets/IATI/Worldwide_PEPFAR_2.xml
 unitedstates-worldwide_program_management http://beta.foreignassistance.gov/assets/IATI/Worldwide_program_management.xml
-unitedstates-worldwide_program_management_1 http://beta.foreignassistance.gov/assets/IATI/Worldwide_peace_and_security_1.xml
-unitedstates-worldwide_program_management_2 http://beta.foreignassistance.gov/assets/IATI/Worldwide_peace_and_security_2.xml
+unitedstates-worldwide_program_management_1 http://beta.foreignassistance.gov/assets/IATI/Worldwide_program_management_1.xml
+unitedstates-worldwide_program_management_2 http://beta.foreignassistance.gov/assets/IATI/Worldwide_program_management_2.xml
 unitedstates-ye http://beta.foreignassistance.gov/assets/IATI/Yemen.xml
 unitedstates-zm http://beta.foreignassistance.gov/assets/IATI/Zambia.xml
 unitedstates-zw http://beta.foreignassistance.gov/assets/IATI/Zimbabwe.xml
