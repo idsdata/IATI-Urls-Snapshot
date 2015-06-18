@@ -158,7 +158,7 @@ sida-380 http://iati.openaid.se/xml/380.xml
 sida-ye http://iati.openaid.se/xml/YE.xml
 sida-zm http://iati.openaid.se/xml/ZM.xml
 sida-zw http://iati.openaid.se/xml/ZW.xml
-sida-organisation http://iati.openaid.se/xml/IATI_orgfile_SidaSE_2013.xml
+sida-organisation http://iati.openaid.se/xml/sida-org.xml
 sida-998a http://iati.openaid.se/xml/998a.xml
 sida-998b http://iati.openaid.se/xml/998b.xml
 sida-998c http://iati.openaid.se/xml/998c.xml
