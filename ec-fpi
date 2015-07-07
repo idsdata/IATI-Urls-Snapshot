@@ -9,6 +9,7 @@ ec-fpi-ba http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_BA.xml
 ec-fpi-br http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_BR.xml
 ec-fpi-bf http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_BF.xml
 ec-fpi-bi http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_BI.xml
+ec-fpi-cm http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_CM.xml
 ec-fpi-cf http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_CF.xml
 ec-fpi-619 http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_QRS.xml
 ec-fpi-td http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_TD.xml
@@ -66,6 +67,7 @@ ec-fpi-th http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_TH.xml
 ec-fpi-tl http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_TL.xml
 ec-fpi-tg http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_TG.xml
 ec-fpi-tn http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_TN.xml
+ec-fpi-tr http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_TR.xml
 ec-fpi-ua http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_UA.xml
 ec-fpi-380 http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_QNB.xml
 ec-fpi-ye http://ec.europa.eu/europeaid/files/iati/EU_FPI_C_YE.xml
