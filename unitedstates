@@ -1,7 +1,7 @@
-unitedstates-org_state_usaid http://beta.foreignassistance.gov/assets/Organisations/DOS%20and%20USAID.xml
 unitedstates-dosandusaid http://beta.foreignassistance.gov/assets/Organisations/DOS%20and%20USAID.xml
+unitedstates-org_state_usaid http://beta.foreignassistance.gov/assets/Organisations/DOS and USAID.xml
 unitedstates-org_mcc http://beta.foreignassistance.gov/assets/Organisations/MCC.xml
-unitedstates-org_peacecorps http://beta.foreignassistance.gov/assets/Organisations/Peace%20Corps.xml
+unitedstates-org_peacecorps http://beta.foreignassistance.gov/assets/Organisations/Peace Corps.xml
 unitedstates-org_adf http://beta.foreignassistance.gov/assets/Organisations/ADF.xml
 unitedstates-org_usda http://beta.foreignassistance.gov/assets/Organisations/USDA.xml
 unitedstates-org_dod http://beta.foreignassistance.gov/assets/Organisations/DOD.xml
@@ -206,7 +206,7 @@ unitedstates-pe http://beta.foreignassistance.gov/assets/IATI/Peru.xml
 unitedstates-ph http://beta.foreignassistance.gov/assets/IATI/Philippines.xml
 unitedstates-pl http://beta.foreignassistance.gov/assets/IATI/Poland.xml
 unitedstates-pt http://beta.foreignassistance.gov/assets/IATI/Portugal.xml
-unitedstates-qa http://www.foreignassistance.gov/web/IATI/Activities/Qatar.xml
+unitedstates-qa http://beta.foreignassistance.gov/assets/IATI/Qatar.xml
 unitedstates-redacted http://beta.foreignassistance.gov/assets/IATI/Redacted.xml
 unitedstates-cg http://beta.foreignassistance.gov/assets/IATI/Congo_Republic_of_the.xml
 unitedstates-ro http://beta.foreignassistance.gov/assets/IATI/Romania.xml
@@ -264,7 +264,7 @@ unitedstates-tr http://beta.foreignassistance.gov/assets/IATI/Turkey.xml
 unitedstates-tm http://beta.foreignassistance.gov/assets/IATI/Turkmenistan.xml
 unitedstates-tc http://datafagov.azurewebsites.net/Activities/Turks_and_Caicos_Islands.xml
 unitedstates-tv http://beta.foreignassistance.gov/assets/IATI/Tuvalu.xml
-unitedstates-vi http://beta.foreignassistance.gov/assets/IATI/Virgin_Islands_U.xml
+unitedstates-vi http://beta.foreignassistance.gov/assets/IATI/Virgin_Islands_US.xml
 unitedstates-589 http://datafagov.azurewebsites.net/Activities/USAID_Middle_East_Regional.xml
 unitedstates-ug http://beta.foreignassistance.gov/assets/IATI/Uganda.xml
 unitedstates-ua http://beta.foreignassistance.gov/assets/IATI/Ukraine.xml
@@ -287,6 +287,7 @@ unitedstates-worldwide_health http://beta.foreignassistance.gov/assets/IATI/Worl
 unitedstates-worldwide_health_1 
 unitedstates-worldwide_humanitarian_assistance http://beta.foreignassistance.gov/assets/IATI/Worldwide_humanitarian_assistance.xml
 unitedstates-worldwide_multisector_unspecified http://beta.foreignassistance.gov/assets/IATI/Worldwide_multisector_unspecified.xml
+unitedstates-worldwide_peace_and_security http://beta.foreignassistance.gov/assets/IATI/Worldwide_peace_and_security.xml
 unitedstates-worldwide_peace_and_security_1 http://beta.foreignassistance.gov/assets/IATI/Worldwide_peace_and_security_1.xml
 unitedstates-worldwide_peace_and_security_2 http://beta.foreignassistance.gov/assets/IATI/Worldwide_peace_and_security_2.xml
 unitedstates-worldwide_pepfar_1 http://beta.foreignassistance.gov/assets/IATI/Worldwide_PEPFAR_1.xml
