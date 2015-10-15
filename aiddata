@@ -1,1 +1,9 @@
-aiddata-nepalampgeocodedv1 http://user.developmentgateway.org/~barancibia/aiddata_nepal_v1.0.xml
+aiddata-drcamp https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_DRCAMP_GeocodedResearchRelease.xml
+aiddata-hndamp https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_HondurasAMP_GeocodedResearchRelease.xml
+aiddata-irqdad https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_IraqDAD_GeocodedResearchRelease.xml
+aiddata-nepalamp https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_NepalAMP_GeocodedResearchRelease.xml
+aiddata-ngadad https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_NigeriaDAD_GeocodedResearchRelease.xml
+aiddata-senamp https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_SenegalAMP_GeocodedResearchRelease.xml
+aiddata-tlsamp https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_TimorLesteAMP_GeocodedResearchRelease.xml
+aiddata-ugaamp https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_UgandaAMP_GeocodedResearchRelease.xml
+aiddata-wb https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_WorldBank_GeocodedResearchRelease.xml
