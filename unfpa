@@ -87,7 +87,7 @@ unfpa-ni http://open.unfpa.org/IATI/release/UNFPA_NI.xml
 unfpa-ne http://open.unfpa.org/IATI/release/UNFPA_NE.xml
 unfpa-ng http://open.unfpa.org/IATI/release/UNFPA_NG.xml
 unfpa-om http://open.unfpa.org/IATI/release/UNFPA_OM.xml
-unfpa-org https://data.unfpa.org/Apps/IATI/release/UNFPA_organisation.xml
+unfpa-org https://open.unfpa.org/IATI/release/UNFPA_organisation.xml
 unfpa-pk http://open.unfpa.org/IATI/release/UNFPA_PK.xml
 unfpa-pa http://open.unfpa.org/IATI/release/UNFPA_PA.xml
 unfpa-pg http://open.unfpa.org/IATI/release/UNFPA_PG.xml
@@ -111,10 +111,8 @@ unfpa-bo_rt http://open.unfpa.org/IATI/release/UNFPA_RT_BO.xml
 unfpa-ba_rt http://open.unfpa.org/IATI/release/UNFPA_RT_BA.xml
 unfpa-bw_rt http://open.unfpa.org/IATI/release/UNFPA_RT_BW.xml
 unfpa-br_rt http://open.unfpa.org/IATI/release/UNFPA_RT_BR.xml
-unfpa-bg_rt http://open.unfpa.org/IATI/release/UNFPA_RT_BG.xml
 unfpa-bf_rt http://open.unfpa.org/IATI/release/UNFPA_RT_BF.xml
 unfpa-bi_rt http://open.unfpa.org/IATI/release/UNFPA_RT_BI.xml
-unfpa-cv_rt http://open.unfpa.org/IATI/release/UNFPA_RT_CV.xml
 unfpa-kh_rt http://open.unfpa.org/IATI/release/UNFPA_RT_KH.xml
 unfpa-cm_rt http://open.unfpa.org/IATI/release/UNFPA_RT_CM.xml
 unfpa-cf_rt http://open.unfpa.org/IATI/release/UNFPA_RT_CF.xml
@@ -139,7 +137,6 @@ unfpa-sv_rt http://open.unfpa.org/IATI/release/UNFPA_RT_SV.xml
 unfpa-gq_rt http://open.unfpa.org/IATI/release/UNFPA_RT_GQ.xml
 unfpa-er_rt http://open.unfpa.org/IATI/release/UNFPA_RT_ER.xml
 unfpa-et_rt http://open.unfpa.org/IATI/release/UNFPA_RT_ET.xml
-unfpa-fj_rt http://open.unfpa.org/IATI/release/UNFPA_RT_FJ.xml
 unfpa-ga_rt http://open.unfpa.org/IATI/release/UNFPA_RT_GA.xml
 unfpa-gm_rt http://open.unfpa.org/IATI/release/UNFPA_RT_GM.xml
 unfpa-ge_rt http://open.unfpa.org/IATI/release/UNFPA_RT_GE.xml
@@ -190,13 +187,10 @@ unfpa-py_rt http://open.unfpa.org/IATI/release/UNFPA_RT_PY.xml
 unfpa-pe_rt http://open.unfpa.org/IATI/release/UNFPA_RT_PE.xml
 unfpa-ph_rt http://open.unfpa.org/IATI/release/UNFPA_RT_PH.xml
 unfpa-md_rt http://open.unfpa.org/IATI/release/UNFPA_RT_MD.xml
-unfpa-ro_rt http://open.unfpa.org/IATI/release/UNFPA_RT_RO.xml
-unfpa-ru_rt http://open.unfpa.org/IATI/release/UNFPA_RT_RU.xml
 unfpa-rw_rt http://open.unfpa.org/IATI/release/UNFPA_RT_RW.xml
 unfpa-st_rt http://open.unfpa.org/IATI/release/UNFPA_RT_ST.xml
 unfpa-sn_rt http://open.unfpa.org/IATI/release/UNFPA_RT_SN.xml
 unfpa-rs_rt http://open.unfpa.org/IATI/release/UNFPA_RT_RS.xml
-unfpa-sc_rt http://open.unfpa.org/IATI/release/UNFPA_RT_SC.xml
 unfpa-sl_rt http://open.unfpa.org/IATI/release/UNFPA_RT_SL.xml
 unfpa-so_rt http://open.unfpa.org/IATI/release/UNFPA_RT_SO.xml
 unfpa-za_rt http://open.unfpa.org/IATI/release/UNFPA_RT_ZA.xml
