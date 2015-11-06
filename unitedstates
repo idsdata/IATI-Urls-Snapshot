@@ -9,15 +9,14 @@ unitedstates-org_treasury http://beta.foreignassistance.gov/assets/Organisations
 unitedstates-org_iaf http://beta.foreignassistance.gov/assets/Organisations/IAF.xml
 unitedstates-af http://beta.foreignassistance.gov/assets/IATI/Afghanistan.xml
 unitedstates-africa_regional http://beta.foreignassistance.gov/assets/IATI/Africa_regional.xml
+unitedstates-state_africa_regional http://beta.foreignassistance.gov/assets/IATI/Africa_regional.xml
 unitedstates-al http://beta.foreignassistance.gov/assets/IATI/Albania.xml
 unitedstates-dz http://beta.foreignassistance.gov/assets/IATI/Algeria.xml
 unitedstates-america_regional http://beta.foreignassistance.gov/assets/IATI/America_regional.xml
 unitedstates-ao http://beta.foreignassistance.gov/assets/IATI/Angola.xml
-unitedstates-ai http://datafagov.azurewebsites.net/Activities/Anguilla.xml
 unitedstates-ag http://beta.foreignassistance.gov/assets/IATI/Antigua_and_Barbuda.xml
 unitedstates-ar http://beta.foreignassistance.gov/assets/IATI/Argentina.xml
 unitedstates-am http://beta.foreignassistance.gov/assets/IATI/Armenia.xml
-unitedstates-aw http://datafagov.azurewebsites.net/Activities/Aruba.xml
 unitedstates-asia_regional http://beta.foreignassistance.gov/assets/IATI/Asia_regional.xml
 unitedstates-798 http://beta.foreignassistance.gov/assets/IATI/Asia_regional.xml
 unitedstates-au http://beta.foreignassistance.gov/assets/IATI/Australia.xml
@@ -30,7 +29,6 @@ unitedstates-by http://beta.foreignassistance.gov/assets/IATI/Belarus.xml
 unitedstates-be http://beta.foreignassistance.gov/assets/IATI/Belgium.xml
 unitedstates-bz http://beta.foreignassistance.gov/assets/IATI/Belize.xml
 unitedstates-bj http://beta.foreignassistance.gov/assets/IATI/Benin.xml
-unitedstates-bm 
 unitedstates-bt http://beta.foreignassistance.gov/assets/IATI/Bhutan.xml
 unitedstates-bo http://beta.foreignassistance.gov/assets/IATI/Bolivia.xml
 unitedstates-ba http://beta.foreignassistance.gov/assets/IATI/Bosnia_and_Herzegovina.xml
@@ -46,7 +44,6 @@ unitedstates-kh http://beta.foreignassistance.gov/assets/IATI/Cambodia.xml
 unitedstates-cm http://beta.foreignassistance.gov/assets/IATI/Cameroon.xml
 unitedstates-ca http://beta.foreignassistance.gov/assets/IATI/Canada.xml
 unitedstates-cv http://beta.foreignassistance.gov/assets/IATI/Cape_Verde.xml
-unitedstates-ky 
 unitedstates-central_africa_region_program_for_environment 
 unitedstates-cf http://beta.foreignassistance.gov/assets/IATI/Central_African_Republic.xml
 unitedstates-central_asia_regional http://beta.foreignassistance.gov/assets/IATI/Central_Asia_regional.xml
@@ -121,7 +118,6 @@ unitedstates-ls http://beta.foreignassistance.gov/assets/IATI/Lesotho.xml
 unitedstates-lr http://beta.foreignassistance.gov/assets/IATI/Liberia.xml
 unitedstates-ly http://beta.foreignassistance.gov/assets/IATI/Libya.xml
 unitedstates-lt http://beta.foreignassistance.gov/assets/IATI/Lithuania.xml
-unitedstates-lu http://datafagov.azurewebsites.net/Activities/Luxembourg.xml
 unitedstates-al2 http://beta.foreignassistance.gov/assets/IATI/MCC_Albania.xml
 unitedstates-am2 http://beta.foreignassistance.gov/assets/IATI/MCC_Armenia.xml
 unitedstates-bj2 http://beta.foreignassistance.gov/assets/IATI/MCC_Benin.xml
@@ -162,7 +158,7 @@ unitedstates-tl2 http://beta.foreignassistance.gov/assets/IATI/MCC_Tunisia.xml
 unitedstates-tn2 http://beta.foreignassistance.gov/assets/IATI/MCC_Ukraine.xml
 unitedstates-ua2 http://beta.foreignassistance.gov/assets/IATI/MCC_Vanuatu.xml
 unitedstates-vu2 http://beta.foreignassistance.gov/assets/IATI/MCC_Zambia.xml
-unitedstates-zm2 http://fagov.cloudapp.net/learn/IATI/MCC_Zambia.xml
+unitedstates-zm2 http://beta.foreignassistance.gov/assets/IATI/MCC_Zambia.xml
 unitedstates-mk http://beta.foreignassistance.gov/assets/IATI/Macedonia.xml
 unitedstates-mg http://beta.foreignassistance.gov/assets/IATI/Madagascar.xml
 unitedstates-mw http://beta.foreignassistance.gov/assets/IATI/Malawi.xml
@@ -176,13 +172,14 @@ unitedstates-mu http://beta.foreignassistance.gov/assets/IATI/Mauritius.xml
 unitedstates-mx http://beta.foreignassistance.gov/assets/IATI/Mexico.xml
 unitedstates-fm http://beta.foreignassistance.gov/assets/IATI/Micronesia.xml
 unitedstates-middle_east_regional http://beta.foreignassistance.gov/assets/IATI/Middle_East_regional.xml
+unitedstates-589 http://beta.foreignassistance.gov/assets/IATI/Middle_East_regional.xml
 unitedstates-md http://beta.foreignassistance.gov/assets/IATI/Moldova.xml
 unitedstates-mn http://beta.foreignassistance.gov/assets/IATI/Mongolia.xml
 unitedstates-me http://beta.foreignassistance.gov/assets/IATI/Montenegro.xml
 unitedstates-ma http://beta.foreignassistance.gov/assets/IATI/Morocco.xml
 unitedstates-mz http://beta.foreignassistance.gov/assets/IATI/Mozambique.xml
 unitedstates-na http://beta.foreignassistance.gov/assets/IATI/Namibia.xml
-unitedstates-near_east_regional http://datafagov.azurewebsites.net/Activities/Near_East_Regional/Near_East_Regional.xml
+unitedstates-near_east_regional http://beta.foreignassistance.gov/assets/IATI/Middle_East_regional.xml
 unitedstates-np http://beta.foreignassistance.gov/assets/IATI/Nepal.xml
 unitedstates-nl http://beta.foreignassistance.gov/assets/IATI/Netherlands.xml
 unitedstates-nz http://beta.foreignassistance.gov/assets/IATI/New_Zealand.xml
@@ -228,7 +225,7 @@ unitedstates-so http://beta.foreignassistance.gov/assets/IATI/Somalia.xml
 unitedstates-za http://beta.foreignassistance.gov/assets/IATI/South_Africa.xml
 unitedstates-south_africa_region 
 unitedstates-south_america_regional http://beta.foreignassistance.gov/assets/IATI/South_America_regional.xml
-unitedstates-489 http://datafagov.azurewebsites.net/Activities/South_America_Region.xml
+unitedstates-489 http://beta.foreignassistance.gov/assets/IATI/South_America_regional.xml
 unitedstates-south_asia_regional http://beta.foreignassistance.gov/assets/IATI/South_Asia_regional.xml
 unitedstates-kr http://beta.foreignassistance.gov/assets/IATI/Korea_South.xml
 unitedstates-south_of_sahara_regional http://beta.foreignassistance.gov/assets/IATI/South_of_Sahara_regional.xml
@@ -237,9 +234,7 @@ unitedstates-ss http://beta.foreignassistance.gov/assets/IATI/South_Sudan.xml
 unitedstates-south_and_central_asia_regional http://beta.foreignassistance.gov/assets/IATI/South_and_Central_Asia_regional.xml
 unitedstates-es http://beta.foreignassistance.gov/assets/IATI/Spain.xml
 unitedstates-lk http://beta.foreignassistance.gov/assets/IATI/Sri_Lanka.xml
-unitedstates-state_africa_regional http://datafagov.azurewebsites.net/Activities/State_Africa_Regional/State_Africa_Regional.xml
 unitedstates-state_east_asia_and_pacific_regional http://www.foreignassistance.gov/web/IATI/Activities/State_East_Asia_and_Pacific_Regional.xml
-unitedstates-state_near_east_regionalmiddle_east_partnership_i 
 unitedstates-sd http://beta.foreignassistance.gov/assets/IATI/Sudan.xml
 unitedstates-sr http://beta.foreignassistance.gov/assets/IATI/Suriname.xml
 unitedstates-sz http://beta.foreignassistance.gov/assets/IATI/Swaziland.xml
@@ -255,15 +250,12 @@ unitedstates-gm http://beta.foreignassistance.gov/assets/IATI/Gambia_The.xml
 unitedstates-tl http://beta.foreignassistance.gov/assets/IATI/TimorLeste.xml
 unitedstates-tg http://beta.foreignassistance.gov/assets/IATI/Togo.xml
 unitedstates-to http://beta.foreignassistance.gov/assets/IATI/Tonga.xml
-unitedstates-treasury http://datafagov.azurewebsites.net/Organisation/Treasury/Treasury.xml
 unitedstates-tt http://beta.foreignassistance.gov/assets/IATI/Trinidad_and_Tobago.xml
 unitedstates-tn http://beta.foreignassistance.gov/assets/IATI/Tunisia.xml
 unitedstates-tr http://beta.foreignassistance.gov/assets/IATI/Turkey.xml
 unitedstates-tm http://beta.foreignassistance.gov/assets/IATI/Turkmenistan.xml
-unitedstates-tc http://datafagov.azurewebsites.net/Activities/Turks_and_Caicos_Islands.xml
 unitedstates-tv http://beta.foreignassistance.gov/assets/IATI/Tuvalu.xml
 unitedstates-vi http://beta.foreignassistance.gov/assets/IATI/Virgin_Islands_US.xml
-unitedstates-589 http://datafagov.azurewebsites.net/Activities/USAID_Middle_East_Regional.xml
 unitedstates-ug http://beta.foreignassistance.gov/assets/IATI/Uganda.xml
 unitedstates-ua http://beta.foreignassistance.gov/assets/IATI/Ukraine.xml
 unitedstates-ae http://beta.foreignassistance.gov/assets/IATI/United_Arab_Emirates.xml
@@ -287,7 +279,6 @@ unitedstates-worldwide_humanitarian_assistance http://beta.foreignassistance.gov
 unitedstates-worldwide_multisector_unspecified http://beta.foreignassistance.gov/assets/IATI/Worldwide_multisector_unspecified.xml
 unitedstates-worldwide_peace_and_security http://beta.foreignassistance.gov/assets/IATI/Worldwide_peace_and_security.xml
 unitedstates-worldwide_peace_and_security_1 http://beta.foreignassistance.gov/assets/IATI/Worldwide_peace_and_security_1.xml
-unitedstates-worldwide_peace_and_security_2 http://beta.foreignassistance.gov/assets/IATI/Worldwide_peace_and_security_2.xml
 unitedstates-worldwide_pepfar_1 http://beta.foreignassistance.gov/assets/IATI/Worldwide_PEPFAR_1.xml
 unitedstates-worldwide_pepfar_2 http://beta.foreignassistance.gov/assets/IATI/Worldwide_PEPFAR_2.xml
 unitedstates-worldwide_program_management http://beta.foreignassistance.gov/assets/IATI/Worldwide_program_management.xml
