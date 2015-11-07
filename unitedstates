@@ -106,8 +106,6 @@ unitedstates-jo http://beta.foreignassistance.gov/assets/IATI/Jordan.xml
 unitedstates-kz http://beta.foreignassistance.gov/assets/IATI/Kazakhstan.xml
 unitedstates-ke http://beta.foreignassistance.gov/assets/IATI/Kenya.xml
 unitedstates-ki http://beta.foreignassistance.gov/assets/IATI/Kiribati.xml
-unitedstates-korea_north 
-unitedstates-korea_south 
 unitedstates-xk http://beta.foreignassistance.gov/assets/IATI/Kosovo.xml
 unitedstates-kg http://beta.foreignassistance.gov/assets/IATI/Kyrgyzstan.xml
 unitedstates-la http://beta.foreignassistance.gov/assets/IATI/Laos.xml
@@ -143,17 +141,17 @@ unitedstates-md2 http://beta.foreignassistance.gov/assets/IATI/MCC_Mongolia.xml
 unitedstates-mn2 http://beta.foreignassistance.gov/assets/IATI/MCC_Morocco.xml
 unitedstates-ma2 http://beta.foreignassistance.gov/assets/IATI/MCC_Mozambique.xml
 unitedstates-mz2 http://beta.foreignassistance.gov/assets/IATI/MCC_Namibia.xml
-unitedstates-na2 http://beta.foreignassistance.gov/assets/IATI/MCC_NepalP.xml
+unitedstates-na2 http://beta.foreignassistance.gov/assets/IATI/MCC_Nepal.xml
 unitedstates-np2 http://beta.foreignassistance.gov/assets/IATI/MCC_Nicaragua.xml
 unitedstates-ni2 http://beta.foreignassistance.gov/assets/IATI/MCC_Niger.xml
-unitedstates-ne2 http://beta.foreignassistance.gov/assets/IATI/MCC_Philipines.xml
+unitedstates-ne2 http://beta.foreignassistance.gov/assets/IATI/MCC_Philippines.xml
 unitedstates-ph2 http://beta.foreignassistance.gov/assets/IATI/MCC_Rwanda.xml
 unitedstates-rw2 http://beta.foreignassistance.gov/assets/IATI/MCC_Sao_Tome_and_Principe.xml
 unitedstates-st2 http://beta.foreignassistance.gov/assets/IATI/MCC_Senegal.xml
 unitedstates-sn2 http://beta.foreignassistance.gov/assets/IATI/MCC_Sierra_Leone.xml
 unitedstates-sl2 http://beta.foreignassistance.gov/assets/IATI/MCC_Sri_Lanka.xml
 unitedstates-lk2 http://beta.foreignassistance.gov/assets/IATI/MCC_Tanzania.xml
-unitedstates-tz2 http://beta.foreignassistance.gov/assets/IATI/MCC_Timor-Leste.xml
+unitedstates-tz2 http://beta.foreignassistance.gov/assets/IATI/MCC_Timor_Leste.xml
 unitedstates-tl2 http://beta.foreignassistance.gov/assets/IATI/MCC_Tunisia.xml
 unitedstates-tn2 http://beta.foreignassistance.gov/assets/IATI/MCC_Ukraine.xml
 unitedstates-ua2 http://beta.foreignassistance.gov/assets/IATI/MCC_Vanuatu.xml
