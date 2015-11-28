@@ -26,6 +26,7 @@ dfid-cd http://iati.dfid.gov.uk/iati_files/Country/DFID-Congo-Dem-Rep-CD.xml
 dfid-cg http://iati.dfid.gov.uk/iati_files/Country/DFID-Congo-Peoples-Republic-of-CG.xml
 dfid-ci http://iati.dfid.gov.uk/iati_files/Country/DFID-Cote-dIvoire-CI.xml
 dfid-cu http://iati.dfid.gov.uk/iati_files/Country/DFID-Cuba-CU.xml
+dfid-dm http://iati.dfid.gov.uk/iati_files/Country/DFID-Dominica-DM.xml
 dfid-ef http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-EECAD-Regional-EF.xml
 dfid-ea http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-East-Africa-EA.xml
 dfid-eb http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-East-African-Community-EB.xml
@@ -80,6 +81,8 @@ dfid-ne http://iati.dfid.gov.uk/iati_files/Country/DFID-Niger-NE.xml
 dfid-ng http://iati.dfid.gov.uk/iati_files/Country/DFID-Nigeria-NG.xml
 dfid-ns1 http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Non-Specific-Country-NS-1.xml
 dfid-ns2 http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Non-Specific-Country-NS-2.xml
+dfid-ns3 http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Non-Specific-Country-NS-3.xml
+dfid-ns4 http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Non-Specific-Country-NS-4.xml
 dfid-189 http://iati.dfid.gov.uk/iati_files/Region/DFID-North-of-Sahara-regional-189.xml
 dfid-ot http://iati.dfid.gov.uk/iati_files/Non_Iati_Region/DFID-Overseas-Territories-OT.xml
 dfid-pk http://iati.dfid.gov.uk/iati_files/Country/DFID-Pakistan-PK.xml
@@ -115,6 +118,7 @@ dfid-tr http://iati.dfid.gov.uk/iati_files/Country/DFID-Turkey-TR.xml
 dfid-tc http://iati.dfid.gov.uk/iati_files/Country/DFID-Turks-and-Caicos-Islands-TC.xml
 dfid-ug http://iati.dfid.gov.uk/iati_files/Country/DFID-Uganda-UG.xml
 dfid-ua http://iati.dfid.gov.uk/iati_files/Country/DFID-Ukraine-UA.xml
+dfid-ae http://iati.dfid.gov.uk/iati_files/Country/DFID-United-Arab-Emirates-AE.xml
 dfid-gb http://iati.dfid.gov.uk/iati_files/Country/DFID-United-Kingdom-GB.xml
 dfid-vu http://iati.dfid.gov.uk/iati_files/Country/DFID-Vanuatu-VU.xml
 dfid-vn http://iati.dfid.gov.uk/iati_files/Country/DFID-Vietnam-VN.xml
