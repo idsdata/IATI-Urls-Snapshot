@@ -98,15 +98,15 @@ unicef-paraguay http://files.unicef.org/transparency/countrydata/iatiActivity_Pa
 unicef-peru http://files.unicef.org/transparency/countrydata/iatiActivity_Peru.xml
 unicef-philippines http://files.unicef.org/transparency/countrydata/iatiActivity_Philippines.xml
 unicef-rosa1 http://files.unicef.org/transparency/countrydata/iatiActivity_ROSA.xml
-unicef-uzbekistan http://files.unicef.org/transparency/countrydata/iatiActivity_Rep20%of20%Uzbekistan.xml
-unicef-turkmenistan http://files.unicef.org/transparency/countrydata/iatiActivity_Rep.20%of20%Turkmenistan.xml
+unicef-uzbekistan http://files.unicef.org/transparency/countrydata/iatiActivity_Rep%20of%20Uzbekistan.xml
+unicef-turkmenistan http://files.unicef.org/transparency/countrydata/iatiActivity_Rep.%20of%20Turkmenistan.xml
 unicef-cameroon http://files.unicef.org/transparency/countrydata/iatiActivity_Republic%20of%20Cameroon.xml
 unicef-kyrgyzstan http://files.unicef.org/transparency/countrydata/iatiActivity_Republic%20of%20Kyrgyzstan.xml
 unicef-montenegro http://files.unicef.org/transparency/countrydata/iatiActivity_Republic%20of%20Montenegro.xml
 unicef-mozambique http://files.unicef.org/transparency/countrydata/iatiActivity_Republic%20of%20Mozambique.xml
 unicef-romania http://files.unicef.org/transparency/countrydata/iatiActivity_Romania.xml
 unicef-rwanda http://files.unicef.org/transparency/countrydata/iatiActivity_Rwanda.xml
-unicef-saotomeprincipe http://files.unicef.org/transparency/countrydata/iatiActivity_Sao20%Tome20%&20%Principe.xml
+unicef-saotomeprincipe http://files.unicef.org/transparency/countrydata/iatiActivity_Sao%20Tome%20&%20Principe.xml
 unicef-saudiarabia http://files.unicef.org/transparency/countrydata/iatiActivity_Saudi%20Arabia.xml
 unicef-senegal http://files.unicef.org/transparency/countrydata/iatiActivity_Senegal.xml
 unicef-serbia http://files.unicef.org/transparency/countrydata/iatiActivity_Serbia.xml
@@ -126,7 +126,7 @@ unicef-tunisia http://files.unicef.org/transparency/countrydata/iatiActivity_Tun
 unicef-turkey http://files.unicef.org/transparency/countrydata/iatiActivity_Turkey.xml
 unicef-uganda http://files.unicef.org/transparency/countrydata/iatiActivity_Uganda.xml
 unicef-ukraine http://files.unicef.org/transparency/countrydata/iatiActivity_Ukraine.xml
-unicef-tanzania http://files.unicef.org/transparency/countrydata/iatiActivity_United20%Rep.20%of20%Tanzania.xml
+unicef-tanzania http://files.unicef.org/transparency/countrydata/iatiActivity_United%20Rep.%20of%20Tanzania.xml
 unicef-uruguay http://files.unicef.org/transparency/countrydata/iatiActivity_Uruguay.xml
 unicef-venezuela http://files.unicef.org/transparency/countrydata/iatiActivity_Venezuela.xml
 unicef-vietnam http://files.unicef.org/transparency/countrydata/iatiActivity_Vietnam.xml
@@ -134,4 +134,4 @@ unicef-wcaro http://files.unicef.org/transparency/countrydata/iatiActivity_WCARO
 unicef-yemen http://files.unicef.org/transparency/countrydata/iatiActivity_Yemen.xml
 unicef-zambia http://files.unicef.org/transparency/countrydata/iatiActivity_Zambia.xml
 unicef-zimbabwe http://files.unicef.org/transparency/countrydata/iatiActivity_Zimbabwe.xml
-unicef-organisation http://www.unicef.org/transparency/files/UNICEF_Organization_File_-_June_2014.xml
+unicef-organisation http://files.unicef.org/transparency/countrydata/iatiORG.xml
