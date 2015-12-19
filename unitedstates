@@ -1,12 +1,12 @@
+unitedstates-dod http://beta.foreignassistance.gov/assets/Organisations/DOD.xml
+unitedstates-hhs http://beta.foreignassistance.gov/assets/Organisations/HHS.xml
 unitedstates-dosandusaid http://beta.foreignassistance.gov/assets/Organisations/DOS%20and%20USAID.xml
-unitedstates-org_mcc http://beta.foreignassistance.gov/assets/Organisations/MCC.xml
+unitedstates-iaf http://beta.foreignassistance.gov/assets/Organisations/IAF.xml
+unitedstates-mcc http://beta.foreignassistance.gov/assets/Organisations/MCC.xml
 unitedstates-org_peacecorps http://beta.foreignassistance.gov/assets/Organisations/Peace Corps.xml
 unitedstates-adf http://beta.foreignassistance.gov/assets/Organisations/ADF.xml
 unitedstates-usda http://beta.foreignassistance.gov/assets/Organisations/USDA.xml
-unitedstates-dod http://beta.foreignassistance.gov/assets/Organisations/DOD.xml
-unitedstates-hhs http://beta.foreignassistance.gov/assets/Organisations/HHS.xml
 unitedstates-treasury http://beta.foreignassistance.gov/assets/Organisations/Treasury.xml
-unitedstates-iaf http://beta.foreignassistance.gov/assets/Organisations/IAF.xml
 unitedstates-af http://beta.foreignassistance.gov/assets/IATI/Afghanistan.xml
 unitedstates-africa_regional http://beta.foreignassistance.gov/assets/IATI/Africa_regional.xml
 unitedstates-al http://beta.foreignassistance.gov/assets/IATI/Albania.xml
@@ -194,7 +194,7 @@ unitedstates-om http://beta.foreignassistance.gov/assets/IATI/Oman.xml
 unitedstates-pepfar http://beta.foreignassistance.gov/assets/IATI/PEPFAR.xml
 unitedstates-pk http://beta.foreignassistance.gov/assets/IATI/Pakistan.xml
 unitedstates-pw http://beta.foreignassistance.gov/assets/IATI/Palau.xml
-unitedstates-ps1 http://beta.foreignassistance.gov/assets/IATI/West_Bank_and_Gaza.xml
+unitedstates-ps http://beta.foreignassistance.gov/assets/IATI/West_Bank_and_Gaza.xml
 unitedstates-pa http://beta.foreignassistance.gov/assets/IATI/Panama.xml
 unitedstates-pg http://beta.foreignassistance.gov/assets/IATI/Papua_New_Guinea.xml
 unitedstates-py http://beta.foreignassistance.gov/assets/IATI/Paraguay.xml
