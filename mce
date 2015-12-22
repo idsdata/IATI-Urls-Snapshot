@@ -1,9 +1,10 @@
-mce-cf http://aidstream.org/files/xml/mce-cf.xml
-mce-cd http://aidstream.org/files/xml/mce-cd.xml
-mce-et http://aidstream.org/files/xml/mce-et.xml
-mce-iq http://aidstream.org/files/xml/mce-iq.xml
-mce-np http://aidstream.org/files/xml/mce-np.xml
-mce-ng http://aidstream.org/files/xml/mce-ng.xml
+mce-cf http://www.aidstream.org/files/xml/mce-cf.xml
+mce-cd http://www.aidstream.org/files/xml/mce-cd.xml
+mce-et http://www.aidstream.org/files/xml/mce-et.xml
+mce-iq http://www.aidstream.org/files/xml/mce-iq.xml
+mce-jo http://www.aidstream.org/files/xml/mce-jo.xml
+mce-np http://www.aidstream.org/files/xml/mce-np.xml
+mce-ng http://www.aidstream.org/files/xml/mce-ng.xml
 mce-org http://www.aidstream.org/files/xml/mce-org.xml
 mcs-iq http://www.aidstream.org/files/xml/mcs-iq.xml
 mcs-cf 
