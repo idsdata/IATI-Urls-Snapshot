@@ -1,1 +1,1 @@
-pri-activities http://aidstream.org/files/xml/pri-activities.xml
+pri-activities http://aidstream.org/public/files/xml/pri-activities.xml
