@@ -1,3 +1,4 @@
+cif-am http://siteresources.worldbank.org/IATI/CIF/CIF-AM.xml
 cif-bd http://siteresources.worldbank.org/IATI/CIF/CIF-BD.xml
 cif-bo http://siteresources.worldbank.org/IATI/CIF/CIF-BO.xml
 cif-br http://siteresources.worldbank.org/IATI/CIF/CIF-BR.xml
@@ -27,13 +28,17 @@ cif-mz http://siteresources.worldbank.org/IATI/CIF/CIF-MZ.xml
 cif-np http://siteresources.worldbank.org/IATI/CIF/CIF-NP.xml
 cif-ne http://siteresources.worldbank.org/IATI/CIF/CIF-NE.xml
 cif-ng http://siteresources.worldbank.org/IATI/CIF/CIF-NG.xml
+cif-389 http://siteresources.worldbank.org/IATI/CIF/CIF-389.xml
 cif-889 http://siteresources.worldbank.org/IATI/CIF/CIF-889.xml
+cif-pg http://siteresources.worldbank.org/IATI/CIF/CIF-PG.xml
+cif-pe http://siteresources.worldbank.org/IATI/CIF/CIF-PE.xml
 cif-ph http://siteresources.worldbank.org/IATI/CIF/CIF-PH.xml
 cif-lc http://siteresources.worldbank.org/IATI/CIF/CIF-LC.xml
 cif-vc http://siteresources.worldbank.org/IATI/CIF/CIF-VC.xml
 cif-ws http://siteresources.worldbank.org/IATI/CIF/CIF-WS.xml
 cif-za http://siteresources.worldbank.org/IATI/CIF/CIF-ZA.xml
 cif-tj http://siteresources.worldbank.org/IATI/CIF/CIF-TJ.xml
+cif-tz http://siteresources.worldbank.org/IATI/CIF/CIF-TZ.xml
 cif-th http://siteresources.worldbank.org/IATI/CIF/CIF-TH.xml
 cif-to http://siteresources.worldbank.org/IATI/CIF/CIF-TO.xml
 cif-tr http://siteresources.worldbank.org/IATI/CIF/CIF-TR.xml
