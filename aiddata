@@ -5,6 +5,7 @@ aiddata-irqdad https://github.com/AidData-WM/public_datasets/raw/master/iati/iat
 aiddata-nepalamp https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_NepalAMP_GeocodedResearchRelease.xml
 aiddata-ngadad https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_NigeriaDAD_GeocodedResearchRelease.xml
 aiddata-senamp https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_SenegalAMP_GeocodedResearchRelease.xml
+aiddata-somaliaaims https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_SomaliaAIMS_GeocodedResearchRelease.xml
 aiddata-tlsamp https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_TimorLesteAMP_GeocodedResearchRelease.xml
 aiddata-ugaamp https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_UgandaAMP_GeocodedResearchRelease.xml
 aiddata-wb https://github.com/AidData-WM/public_datasets/raw/master/iati/iati_1.04_WorldBank_GeocodedResearchRelease.xml
