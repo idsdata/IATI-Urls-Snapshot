@@ -67,10 +67,10 @@ ec-devco-fj http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_FJ.xml
 ec-devco-fi http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_FI.xml
 ec-devco-pf http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_PF.xml
 ec-devco-tf http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_TF.xml
-ec-devco-de http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_DE.xml
 ec-devco-ga http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_GA.xml
 ec-devco-gm http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_GM.xml
 ec-devco-ge http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_GE.xml
+ec-devco-de http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_DE.xml
 ec-devco-gh http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_GH.xml
 ec-devco-gl http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_GL.xml
 ec-devco-gd http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_GD.xml
@@ -167,6 +167,7 @@ ec-devco-689 http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_QRD.xml
 ec-devco-za http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_ZA.xml
 ec-devco-489 http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_QNE.xml
 ec-devco-679 http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_QRC.xml
+ec-devco-kr http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_KR.xml
 ec-devco-ss http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_SS.xml
 ec-devco-289 http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_QME.xml
 ec-devco-es http://ec.europa.eu/europeaid/files/iati/XI-IATI-EC_DEVCO_C_ES.xml
