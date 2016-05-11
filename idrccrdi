@@ -1,3 +1,3 @@
-idrccrdi-act1 http://www.idrc.ca/EN/Documents/dataset-file1.xml
-idrccrdi-act2 http://www.idrc.ca/EN/Documents/dataset-file2.xml
-idrccrdi-org http://www.idrc.ca/EN/Documents/idrc_iati-organisation_Dec_2015.xml
+idrccrdi-act1 https://prd-idrc.azureedge.net/sites/default/files/dataset-file1.xml
+idrccrdi-act2 https://prd-idrc.azureedge.net/sites/default/files/dataset-file2.xml
+idrccrdi-org https://prd-idrc.azureedge.net/sites/default/files/idrc_iati-organisation_march_2016.xml
