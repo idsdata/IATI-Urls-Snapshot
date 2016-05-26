@@ -15,7 +15,6 @@ unfpa-bo http://open.unfpa.org/IATI/release/UNFPA_BO.xml
 unfpa-ba http://open.unfpa.org/IATI/release/UNFPA_BA.xml
 unfpa-bw http://open.unfpa.org/IATI/release/UNFPA_BW.xml
 unfpa-br http://open.unfpa.org/IATI/release/UNFPA_BR.xml
-unfpa-bg http://open.unfpa.org/IATI/release/UNFPA_BG.xml
 unfpa-bf http://open.unfpa.org/IATI/release/UNFPA_BF.xml
 unfpa-bi http://open.unfpa.org/IATI/release/UNFPA_BI.xml
 unfpa-cv http://open.unfpa.org/IATI/release/UNFPA_CV.xml
@@ -43,7 +42,6 @@ unfpa-sv http://open.unfpa.org/IATI/release/UNFPA_SV.xml
 unfpa-gq http://open.unfpa.org/IATI/release/UNFPA_GQ.xml
 unfpa-er http://open.unfpa.org/IATI/release/UNFPA_ER.xml
 unfpa-et http://open.unfpa.org/IATI/release/UNFPA_ET.xml
-unfpa-fj http://open.unfpa.org/IATI/release/UNFPA_FJ.xml
 unfpa-ga http://open.unfpa.org/IATI/release/UNFPA_GA.xml
 unfpa-gm http://open.unfpa.org/IATI/release/UNFPA_GM.xml
 unfpa-ge http://open.unfpa.org/IATI/release/UNFPA_GE.xml
@@ -58,6 +56,7 @@ unfpa-in http://open.unfpa.org/IATI/release/UNFPA_IN.xml
 unfpa-id http://open.unfpa.org/IATI/release/UNFPA_ID.xml
 unfpa-ir http://open.unfpa.org/IATI/release/UNFPA_IR.xml
 unfpa-iq http://open.unfpa.org/IATI/release/UNFPA_IQ.xml
+unfpa-jm http://open.unfpa.org/IATI/release/UNFPA_JM.xml
 unfpa-jo http://open.unfpa.org/IATI/release/UNFPA_JO.xml
 unfpa-kz http://open.unfpa.org/IATI/release/UNFPA_KZ.xml
 unfpa-ke http://open.unfpa.org/IATI/release/UNFPA_KE.xml
@@ -220,13 +219,10 @@ unfpa-zm_rt http://open.unfpa.org/IATI/release/UNFPA_RT_ZM.xml
 unfpa-zw_rt http://open.unfpa.org/IATI/release/UNFPA_RT_ZW.xml
 unfpa-mk_rt http://open.unfpa.org/IATI/release/UNFPA_RT_MK.xml
 unfpa-md http://open.unfpa.org/IATI/release/UNFPA_MD.xml
-unfpa-ro http://open.unfpa.org/IATI/release/UNFPA_RO.xml
-unfpa-ru http://open.unfpa.org/IATI/release/UNFPA_RU.xml
 unfpa-rw http://open.unfpa.org/IATI/release/UNFPA_RW.xml
 unfpa-st http://open.unfpa.org/IATI/release/UNFPA_ST.xml
 unfpa-sn http://open.unfpa.org/IATI/release/UNFPA_SN.xml
 unfpa-rs http://open.unfpa.org/IATI/release/UNFPA_RS.xml
-unfpa-sc http://open.unfpa.org/IATI/release/UNFPA_SC.xml
 unfpa-sl http://open.unfpa.org/IATI/release/UNFPA_SL.xml
 unfpa-so http://open.unfpa.org/IATI/release/UNFPA_SO.xml
 unfpa-za http://open.unfpa.org/IATI/release/UNFPA_ZA.xml
@@ -234,7 +230,7 @@ unfpa-ss http://open.unfpa.org/IATI/release/UNFPA_SS.xml
 unfpa-lk http://open.unfpa.org/IATI/release/UNFPA_LK.xml
 unfpa-ps http://open.unfpa.org/IATI/release/UNFPA_PS.xml
 unfpa-sreg1 http://open.unfpa.org/IATI/release/UNFPA_SREG-CARIB-ENGLISH-DUTCH.xml
-unfpa-sreg2 http://open.unfpa.org/IATI/release/UNFPA_SREG-PACIFIC-ISLAND.xml
+unfpa-sreg2 http://open.unfpa.org/IATI/release/UNFPA_SREG-PACIFIC-ISLANDS.xml
 unfpa-sd http://open.unfpa.org/IATI/release/UNFPA_SD.xml
 unfpa-sz http://open.unfpa.org/IATI/release/UNFPA_SZ.xml
 unfpa-sy http://open.unfpa.org/IATI/release/UNFPA_SY.xml
