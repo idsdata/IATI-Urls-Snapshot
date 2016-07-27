@@ -49,17 +49,18 @@ unitedstates-cl http://beta.foreignassistance.gov/assets/IATI/Chile.xml
 unitedstates-cn http://beta.foreignassistance.gov/assets/IATI/China.xml
 unitedstates-co http://beta.foreignassistance.gov/assets/IATI/Colombia.xml
 unitedstates-km http://beta.foreignassistance.gov/assets/IATI/Comoros.xml
+unitedstates-cd http://beta.foreignassistance.gov/assets/IATI/Congo__Brazzaville_.xml
+unitedstates-cg http://beta.foreignassistance.gov/assets/IATI/Congo__Kinshasa_.xml
 unitedstates-cr http://beta.foreignassistance.gov/assets/IATI/Costa_Rica.xml
 unitedstates-ci http://beta.foreignassistance.gov/assets/IATI/Cote_d'Ivoire.xml
 unitedstates-hr http://beta.foreignassistance.gov/assets/IATI/Croatia.xml
 unitedstates-cu http://beta.foreignassistance.gov/assets/IATI/Cuba.xml
 unitedstates-cy http://beta.foreignassistance.gov/assets/IATI/Cyprus.xml
 unitedstates-cz http://beta.foreignassistance.gov/assets/IATI/Czech_Republic.xml
-unitedstates-cd http://beta.foreignassistance.gov/assets/IATI/Congo__Brazzaville_.xml
 unitedstates-dk http://beta.foreignassistance.gov/assets/IATI/Denmark.xml
 unitedstates-developing_countries_unspecified_department_of_defense http://beta.foreignassistance.gov/assets/IATI/Developing_countries_unspecified_Department_of_Defense.xml
 unitedstates-developing_countries_unspecified_department_of_health_and_human_services http://beta.foreignassistance.gov/assets/IATI/Developing_countries_unspecified_Department_of_Health_and_Human_Services.xml
-unitedstates-developing_countries_unspecified_inter_american_foundation http://beta.foreignassistance.gov/assets/IATI/Developing_countries_unspecified_Inter-American_Foundation.xml
+unitedstates-developing_countries_unspecified_inter_american_foundation http://beta.foreignassistance.gov/assets/IATI/Developing_countries_unspecified_Inter_American_Foundation.xml
 unitedstates-developing_countries_unspecified_peace_corps http://beta.foreignassistance.gov/assets/IATI/Developing_countries_unspecified_Peace_Corps.xml
 unitedstates-developing_countries_unspecified_us_african_development_foundation http://beta.foreignassistance.gov/assets/IATI/Developing_countries_unspecified_US_African_Development_Foundation.xml
 unitedstates-developing_countries_unspecified_us_agency_for_international_development_1 http://beta.foreignassistance.gov/assets/IATI/Developing_countries_unspecified_US_Agency_for_International_Development_hierarchy3_part1.xml
@@ -98,7 +99,7 @@ unitedstates-gr http://beta.foreignassistance.gov/assets/IATI/Greece.xml
 unitedstates-gd http://beta.foreignassistance.gov/assets/IATI/Grenada.xml
 unitedstates-gt http://beta.foreignassistance.gov/assets/IATI/Guatemala.xml
 unitedstates-gn http://beta.foreignassistance.gov/assets/IATI/Guinea.xml
-unitedstates-gw http://beta.foreignassistance.gov/assets/IATI/GuineaBissau.xml
+unitedstates-gw http://beta.foreignassistance.gov/assets/IATI/Guinea_Bissau.xml
 unitedstates-gy http://beta.foreignassistance.gov/assets/IATI/Guyana.xml
 unitedstates-ht http://beta.foreignassistance.gov/assets/IATI/Haiti.xml
 unitedstates-hn http://beta.foreignassistance.gov/assets/IATI/Honduras.xml
@@ -211,7 +212,6 @@ unitedstates-ph http://beta.foreignassistance.gov/assets/IATI/Philippines.xml
 unitedstates-pl http://beta.foreignassistance.gov/assets/IATI/Poland.xml
 unitedstates-pt http://beta.foreignassistance.gov/assets/IATI/Portugal.xml
 unitedstates-qa http://beta.foreignassistance.gov/assets/IATI/Qatar.xml
-unitedstates-cg http://beta.foreignassistance.gov/assets/IATI/Congo__Kinshasa_.xml
 unitedstates-ro http://beta.foreignassistance.gov/assets/IATI/Romania.xml
 unitedstates-ru http://beta.foreignassistance.gov/assets/IATI/Russia.xml
 unitedstates-rw http://beta.foreignassistance.gov/assets/IATI/Rwanda.xml
@@ -239,7 +239,7 @@ unitedstates-ss http://beta.foreignassistance.gov/assets/IATI/South_Sudan.xml
 unitedstates-south_and_central_asia_regional http://beta.foreignassistance.gov/assets/IATI/South_and_Central_Asia_regional.xml
 unitedstates-es http://beta.foreignassistance.gov/assets/IATI/Spain.xml
 unitedstates-lk http://beta.foreignassistance.gov/assets/IATI/Sri_Lanka.xml
-unitedstates-states_ex_yugoslavia_unspecified http://beta.foreignassistance.gov/assets/IATI/States_Ex-Yugoslavia_unspecified.xml
+unitedstates-states_ex_yugoslavia_unspecified http://beta.foreignassistance.gov/assets/IATI/States_Ex_Yugoslavia_unspecified.xml
 unitedstates-sd http://beta.foreignassistance.gov/assets/IATI/Sudan.xml
 unitedstates-sr http://beta.foreignassistance.gov/assets/IATI/Suriname.xml
 unitedstates-sz http://beta.foreignassistance.gov/assets/IATI/Swaziland.xml
