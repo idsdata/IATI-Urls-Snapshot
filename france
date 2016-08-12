@@ -5,6 +5,15 @@ france-centrale
 france-fsp https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160114-095911/FSP_APD_2015.xml
 france-org http://www.aidstream.org/files/xml/france-org.xml
 france-food https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160114-094738/Aide_Alimentaire_APD_2014.xml
+france-br https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160811-152558/AFD_Bresil.xml
+france-kh https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160811-152335/MAEDI_Cambodge.xml
+france-cm https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160811-151824/MAEDI_Cameroun.xml
+france-cg https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160811-151733/MAEDI_Congo.xml
+france-ga https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160811-151917/MAEDI_Gabon.xml
+france-ke https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160811-152110/MAEDI_Kenya.xml
+france-la https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160811-152147/MAEDI_Laos.xml
+france-mz https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160811-155124/MAEDI_Mozambique.xml
+france-za https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160811-152034/MAEDI_Afrique_du_sud.xml
 france-bf https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160628-100709/MAEDI_Burkina_Faso.xml
 france-bdi https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160628-101817/MAEDI_Burundi.xml
 france-bn https://www.data.gouv.fr/s/resources/l-aide-publique-au-developpement-de-la-france/20160628-101229/MAEDI_Benin_.xml
