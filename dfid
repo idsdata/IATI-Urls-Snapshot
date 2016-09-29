@@ -104,7 +104,7 @@ dfid-ae http://iati.dfid.gov.uk/iati_files/Country/DFID-United-Arab-Emirates-AE.
 dfid-gb http://iati.dfid.gov.uk/iati_files/Country/DFID-United-Kingdom-GB.xml
 dfid-vu http://iati.dfid.gov.uk/iati_files/Country/DFID-Vanuatu-VU.xml
 dfid-vn http://iati.dfid.gov.uk/iati_files/Country/DFID-Vietnam-VN.xml
-dfid-ps http://iati.dfid.gov.uk/iati_files/Country/DFID-West-Bank-and-Gaza-PS.xml
+dfid-ps http://iati.dfid.gov.uk/iati_files/Country/DFID-Occupied-Palestinian-Territories-OPT-PS.xml
 dfid-ye http://iati.dfid.gov.uk/iati_files/Country/DFID-Yemen-YE.xml
 dfid-zm http://iati.dfid.gov.uk/iati_files/Country/DFID-Zambia-ZM.xml
 dfid-zw http://iati.dfid.gov.uk/iati_files/Country/DFID-Zimbabwe-ZW.xml
@@ -113,6 +113,6 @@ dfid-998_1 http://iati.dfid.gov.uk/iati_files/Region/DFID-Developing-countries-u
 dfid-998_2 http://iati.dfid.gov.uk/iati_files/Region/DFID-Developing-countries-unspecified-998-2.xml
 dfid-998_3 http://iati.dfid.gov.uk/iati_files/Region/DFID-Developing-countries-unspecified-998-3.xml
 dfid-998_4 http://iati.dfid.gov.uk/iati_files/Region/DFID-Developing-countries-unspecified-998-4.xml
-dfid-389 http://iati.dfid.gov.uk/iati_files/Region/DFID-North-&-Central-America-regional-389.xml
+dfid-389 http://iati.dfid.gov.uk/iati_files/Region/DFID-North-and-Central-America-regional-389.xml
 dfid-org http://iati.dfid.gov.uk/iati_files/organisation.xml
 dfid-679 http://iati.dfid.gov.uk/iati_files/Region/DFID-South-Asia-regional-679.xml
